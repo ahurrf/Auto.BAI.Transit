@@ -1,0 +1,2025 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/html" lang="ru-RU">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5, viewport-fit=cover" />
+        <meta name="theme-color" content="#b24040">
+                <meta name="apple-itunes-app" content="app-id=6541758066, app-argument=https://ru.ecarstrade.com/blog/how-to-take-car-photos-for-dealership">
+
+        <link rel="manifest" href="/manifest.json" type="application/manifest+json"/>
+        <link rel="apple-touch-icon" href="/static/img/logo/v2_192_icon.png">
+
+        <link rel='alternate' hreflang='en' href='https://ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='fr' href='https://fr.ecarstrade.com/blog/comment-prendre-des-photos-de-voiture-pour-le-concessionnaire'>
+<link rel='alternate' hreflang='nl' href='https://nl.ecarstrade.com/blog/hoe-maak-je-autofoto-26-2339-3bs-voor-dealer'>
+<link rel='alternate' hreflang='de' href='https://de.ecarstrade.com/blog/so-machen-sie-autofotos-fur-ihr-autohaus'>
+<link rel='alternate' hreflang='it' href='https://it.ecarstrade.com/blog/come-scattare-foto-di-auto-per-la-concessionaria'>
+<link rel='alternate' hreflang='es' href='https://ecarstrade.com/es/blog/como-tomar-fotos-de-coches-para-el-concesionario'>
+<link rel='alternate' hreflang='pt' href='https://pt.ecarstrade.com/blog/como-tirar-fotografias-de-automoveis-para-revenda'>
+<link rel='alternate' hreflang='ro' href='https://ecarstrade.com/ro/blog/cum-faci-fotografii-auto'>
+<link rel='alternate' hreflang='pl' href='https://ecarstrade.com/pl/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='cs' href='https://cz.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='hu' href='https://hu.ecarstrade.com/blog/hogyan-kell-fotozni-autoval-kereskedesbe'>
+<link rel='alternate' hreflang='sr' href='https://sr.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='hr' href='https://hr.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='ru' href='https://ru.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='tr' href='https://tr.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='ar' href='https://sa.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='sv' href='https://se.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='uk' href='https://ua.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='bg' href='https://bg.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='el' href='https://gr.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='sq' href='https://al.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='sk' href='https://sk.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='lt' href='https://lt.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='lv' href='https://lv.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='fi' href='https://fi.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='da' href='https://dk.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='no' href='https://no.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='he' href='https://il.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='et' href='https://ee.ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+<link rel='alternate' hreflang='x-default' href='https://ecarstrade.com/blog/how-to-take-car-photos-for-dealership'>
+        <link rel="shortcut icon" href="/static/img/legacy/icons/favicon.ico" type="image/x-icon">
+                <link rel="canonical" href="https://ru.ecarstrade.com/blog/how-to-take-car-photos-for-dealership">
+        <link rel="apple-touch-icon" href="/static/img/logo/192x192.png">
+
+        <link rel=preload href="/static/fonts/mini-fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel=preload href="/static/fonts/mini-fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel=preload href="/static/fonts/mini-fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel=preload href="/images/pixel.gif" as="image" type="image/gif" crossorigin>
+
+               <script async
+                data-api-host="https://cdn.growthbook.io"
+                data-client-key="sdk-2KorM4bdED11cDyt"
+                src='https://cdn.jsdelivr.net/npm/@growthbook/growthbook/dist/bundles/auto.min.js'>
+        </script>
+       
+        <script>
+            max_offers           = 2;
+            min_step_bid         = 100;
+            choose_model         = "Выберите модель";
+            choose_car_req       = "Для подачи заявки выберите автомобиль!";
+            national_border_req  = "Пожалуйста, выберите пункт пересечения границы для выезда с территории ЕС!";
+            old_paswd            = "Старый пароль введен неверно";
+            wrong_paswd          = "Пароли не совпадают";
+            CURRENT_LANG         = "ru";
+            window.SUBFOLDER_LANG = "";
+            window.SUBFOLDER_URL_EXCLUDES = ["static","images","carsphotos","thumbnails","documents","adminpanelishere","adminmobileishere","hubmanager","_api","_testing","manifest.json","favicon.ico","robots.txt","sitemaps","rss","ws","ajax_function.php","change_lang.php","admin-app","future_api.php","change_perpage.php","download_from_app.php","documents.php","image.php","robots.php","setsession.php","sitemap.php","upload_doc_users.php","profile"];
+            ERROR_DATA           = "Произошла ошибка";
+            MAKE_BID             = "Сделать ставку";
+            SMALL_BID            = "Ставка слишком мала. Увеличьте ставку!";
+            End_auction          = "Аукцион завершился";
+            end_time_invoice     = "Время оплаты истекло.";
+            you_name             = "Поле &#039;Имя&#039; не заполнено или заполнено неверно!";
+            you_email            = "Поле &#039;E-mail&#039; не заполнено или заполнено неверно!";
+            you_message          = "Поле &#039;Сообщение&#039; не заполнено или заполнено неверно!";
+            incorrect_name       = "Поле &#039;Имя&#039; не заполнено или заполнено неверно!";
+            incorrect_email      = "Введен некорректный электронный адрес!";
+            incorrect_phone      = "Поле &#039;Номер Телефона&#039; не заполнено или заполнено неверно!";
+            lang_search          = "Искать";
+            first_select_make_adv= "Сначала выберите модель";
+            all_models_adv       = "Все модели";
+            not_multiple_100     = "Ставка должна быть кратна 100"
+            live_additional_min     = "мин"
+            live_additional_sec     = "сек"
+
+            stripePublicKey      = "pk_live_Sa5LbujXp5KZrDax0WDugA8B";
+            publicToken          = "";
+            lotEndedTranslation  = "Аукцион завершился";
+            ws_token             = "";
+            ws_private_token     = "";
+            ws_host              = "wss://ecarstrade.com";
+            ws_user_id              = "0";
+            dealerPortal         = "";
+            user_id              = "0";
+            pageCars             = [];
+            window.detectedPlatform = 'n/a';
+            window.isDeiceMobile = navigator.userAgent.match( /(iPad)|(iPhone)|(iPod)|(Android)|(PlayBook)|(BB10)|(BlackBerry)|(Opera Mini)|(IEMobile)|(webOS)|(MeeGo)/i );
+            window.PVK           = "BErmZRKWrzZwH2anN4xjhzZDExMH-hqtFnxq1Ercn8De9piTNzxjUMKdIEwdg66m1k8XmM2I5aSf5RSRiICtJgo";
+            window._forcePWA     = false;
+            window._pwaTestMode  = false;
+            ect_auth_service         = "/api/v1/auth/login"
+            ect_auth_refresh_token_service = "/api/v1/auth/refreshToken"
+            ect_cookie_lifetime = "1209600"
+        </script>
+        <script type="text/javascript">(() => {
+const lang = {
+  'BOTTOM_MENU__MAIN': "Главная",
+  'BOTTOM_MENU__CARS': "Автомобили",
+  'BOTTOM_MENU__BIDS': "Ставки",
+  'BOTTOM_MENU__FAVORITES': "Избранное",
+  'BOTTOM_MENU__PROFILE': "Профиль",
+  'BOTTOM_MENU__LOGIN': "Войти",
+  'PWA_INSTALL_AGNOSTIC_IOS_TITLE': "Установить eCarsTrade",
+  'PWA_INSTALL_AGNOSTIC_IOS_DESC': "Установите приложение на свое устройство для быстрого доступа. Нет магазина приложений. Никаких хлопот.",
+  'PWA_INSTALL_AGNOSTIC_IOS_ACTION1': "Нажать на",
+  'PWA_INSTALL_AGNOSTIC_IOS_ACTION2': "Выберите <b> Добавить на главный экран </b>",
+};
+window._lang = (name) => lang[name] != null ? lang[name] : '';
+})();</script>
+        <title>Как сделать отличные фотографии автомобиля для вашего автосалона | eCarsTrade</title>
+<meta name="description" content="Наше пошаговое руководство по созданию отличных фотографий подержанных автомобилей для вашего автосалона. Делайте профессиональные фотографии для своего автобизнеса и увеличивайте продажи!" />
+<script>window._cacheVersion = "1bacf384";</script>
+<meta property='og:site_name' content='eCarsTrade' />
+<meta property='og:title' content='Как сделать отличные фотографии автомобиля для вашего автосалона' />
+<meta property='og:url' content='https://ru.ecarstrade.com/blog/how-to-take-car-photos-for-dealership' />
+<meta property='og:description' content='Наше пошаговое руководство по созданию отличных фотографий подержанных автомобилей для вашего автосалона. Делайте профессиональные фотографии для своего автобизнеса и увеличивайте продажи!' />
+<meta property='og:type' content='article' />
+<meta property='og:image' itemprop='image' content='https://ecarstrade.com/static/img/logo/512x512.png' />
+        <link  href='/static/minified/main-page/main-page-head-styles.min.css?v=1bacf384' rel='stylesheet' type='text/css' />
+<link  href='/static/js/nextjs-module-loader/mf-skeleton.css?v=1bacf384' rel='stylesheet' type='text/css' />
+<link  href='/static/css/main/legacy/template/modern-cards.css?v=1bacf384' rel='stylesheet' type='text/css' />
+<link  href='/static/js/vendor/swiper/swiper-bundle.min.css?v=1bacf384' rel='stylesheet' type='text/css' />
+<link  href='/static/css/main/legacy/template/pages/index/account_status.css?v=1bacf384' rel='stylesheet' type='text/css' />
+                <script type='text/javascript'  src='/static/minified/main-page/main-page-head-js.min.js?v=1bacf384'></script>
+<script type='text/javascript'  src='/static/js/nextjs-module-loader/index.js?v=1bacf384'></script>
+<script type='text/javascript'>
+function asyncGeneratorStep(n,e,o,t,r,c,i){try{var a=n[c](i),u=a.value}catch(n){return void o(n)}a.done?e(u):Promise.resolve(u).then(t,r)}function _asyncToGenerator(a){return function(){var n=this,i=arguments;return new Promise(function(e,o){var t=a.apply(n,i);function r(n){asyncGeneratorStep(t,e,o,r,c,"next",n)}function c(n){asyncGeneratorStep(t,e,o,r,c,"throw",n)}r(void 0)})}}!function(){const e=[[],[]],t=[0,0];var n=n=>o=>{t[n]?new Promise(function(n,e){try{n(o())}catch(n){e(n)}}):e[n].push(o)},o=n=>_asyncToGenerator(function*(){if(!t[n]){t[n]=!0;var o=e[n];for(let n=0,e=o.length;n<e;n++)try{yield new Promise(n=>{setTimeout(n,0)}),o[n]()}catch(n){}o.length=0}});window.nonBlockPush=n(0),window.deferPush=n(1),window.nonBlockRun=o(0),window.deferRun=o(1)}();
+</script>
+
+        <!--[if lt IE 9]>
+        <script src="/static/js/vendor/html5shiv.min.js"></script>
+        <![endif]-->
+
+                <style>
+            .text-center {
+                text-align-last: center;
+            }
+        </style>
+    </head>
+    <body id="body">
+                
+        <style>
+    .page-loader {
+        position:absolute;
+        height:120%;
+        width:100%;
+        background:gray;
+        -ms-opacity:0.5;
+        opacity:0.5;
+        z-index:1000000;
+        display: none;
+        margin-left: -15px;
+        margin-top: -169px;
+    }
+    #navbarNavUserWrapper {
+        display: flex;
+        position: relative;
+        width: auto;
+        height: 0;
+        overflow-y: visible;
+        flex: 1;
+        z-index: 1001;
+    }
+    .navbar-nav .w-gap {
+        display: block;
+        flex-shrink: 0;
+        height: 0;
+        width: 40px;
+        margin: 0;
+        padding: 0;
+    }
+
+    @media (max-width: 1100px) {
+        .navbar-nav .w-gap {
+            width: 15px;
+        }
+    }
+    @media (max-width: 1050px) {
+        .navbar-nav .w-gap {
+            width: 5px;
+        }
+    }
+    @media screen and (max-width: 990px) {
+        #navbarNavUserWrapper {
+            flex-basis: auto;
+            overflow-x: clip;
+            width: 100%;
+        }
+        .is-ios #navbarNavUserWrapper {
+            overflow-x: visible;
+        }
+    }
+    #navbarNavUser,
+    #navbarNav {
+        top: 8px;
+    }
+    .navbar {
+        border-bottom: none !important;
+        box-shadow: none !important;
+    }
+
+</style>
+
+
+<div class="wrapper">
+            
+                                                                                <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-white px-2 js-header" id="navbarGroup">
+            <div class="pwa-install-wrapper" style="display: none">
+                <div class="pwa-install js-pwa-install-agnostic-prompt">
+                    <div class="pwa-install__text">Установите веб-приложение eCarsTrade, добавьте его на главный экран и получайте мгновенные обновления.</div>
+                    <div class="pwa-install__buttons">
+                        <a class="pwa-install__install js-app-installer">Установить</a>
+                        <a class="pwa-install__cancel js-pwa-install-agnostic-prompt-cancel">Отмена</a>
+                    </div>
+                </div>
+            </div>
+            <span class="navbar-toggler p-1 navbar__button-back d-lg-none" onclick="history.back()">
+                <img src="/static/img/src/svg/back.svg" alt="Back" width="24" height="24" />
+            </span>
+            <a class="navbar-brand mr-3" id="main_logo_and_link" href="/">
+                                                        <img src="/static/img/legacy/icons/logo-svg.svg" alt="eCarsTrade" title="eCarsTrade" width="171" height="22">
+                            </a>
+            <div class="d-lg-none ml-auto">
+                                    <a class="navbar-toggler show_login_form p-1 js-is-login-form" href="#login_form" aria-label="Войти">
+                        <i class="fa fa-sign-in-alt navbar-toggler-custom-icon"></i>
+                    </a>
+                                <button class="navbar-toggler py-1" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-bars navbar-toggler-custom-icon"></i>
+                </button>
+            </div>
+
+            <div id="navbarNavUserWrapper">
+            <div class="collapse navbar-collapse mr-auto" id="navbarNav" data-parent="#navbarNavUserWrapper">
+                <ul class="navbar-nav">
+         <!--current_menu_ancestor-->
+<!--        <li class="nav-item divider --><!--">-->
+<!--            <a class="nav-link" href="/">--><!--</a>-->
+<!--        </li>-->
+    
+                                <div class="w-gap"></div>
+        
+        
+                    <li class="nav-item divider ">
+        
+                    <a class="nav-link " href="/search" target="_self" title="">
+                                Все автомобили
+                                    <span class="nav-counter top"><i class="fa fa-circle-notch fa-spin"></i></span>
+                
+                
+            </a>
+                            </li>        
+        
+                    <li class="nav-item divider ">
+        
+                    <a class="nav-link " href="/auctions/stock" target="_self" title="">
+                                Наш Cток
+                                    <span class="nav-counter top"><i class="fa fa-circle-notch fa-spin"></i></span>
+                
+                
+            </a>
+                            </li>        
+        
+                    <li class="nav-item divider ">
+        
+                    <a class="nav-link " href="/auctions" target="_self" title="">
+                                Аукционы
+                                    <span class="nav-counter top"><i class="fa fa-circle-notch fa-spin"></i></span>
+                
+                
+            </a>
+                            </li>        
+        
+                    <li class="nav-item divider ">
+        
+                    <a class="nav-link " href="/auctions/allfix" target="_self" title="">
+                                Фикс. цены
+                                    <span class="nav-counter top"><i class="fa fa-circle-notch fa-spin"></i></span>
+                
+                
+            </a>
+                            </li>                    <div class="w-gap"></div>
+        
+        
+                    <li class="nav-item divider ">
+        
+                    <a class="nav-link " href="/contact?l=en" target="_self" title="">
+                                Контакты
+                
+                
+            </a>
+                    
+    </li></ul>
+                                    <ul class="navbar-nav d-lg-none">
+                        <li class="nav-item divider ">
+                            <a class="nav-link text-primary" href="/signup" target="_self" title="Зарегистрироваться">
+                                <b>Зарегистрироваться</b>
+                            </a>
+                        </li>
+                    </ul>
+                
+                <ul class="navbar-nav d-lg-none">
+                                        <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle"
+                           href="#"
+                           id="navbarDropdownLang"
+                           role="button"
+                           data-toggle="dropdown"
+                           aria-haspopup="true"
+                           aria-expanded="false">
+                            <img class="nav-lang lazyload"
+                                 alt="Русский"
+                                                                  data-src="/static/img/icons/flags/svg/ru.svg"
+                                 width="25"
+                                 height="15"/>
+                            Русский                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownLang">
+
+                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=en">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="English"
+                                             data-src="/static/img/icons/flags/svg/gb.svg"
+                                             width="25"
+                                             height="15"/>
+                                        English                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=fr">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Français"
+                                             data-src="/static/img/icons/flags/svg/fr.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Français                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=nl">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Nederlands"
+                                             data-src="/static/img/icons/flags/svg/nl.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Nederlands                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=de">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Deutsch"
+                                             data-src="/static/img/icons/flags/svg/de.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Deutsch                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=it">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Italiano"
+                                             data-src="/static/img/icons/flags/svg/it.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Italiano                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=es">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Español"
+                                             data-src="/static/img/icons/flags/svg/es.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Español                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=pt">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Português"
+                                             data-src="/static/img/icons/flags/svg/pt.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Português                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=ro">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Română"
+                                             data-src="/static/img/icons/flags/svg/ro.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Română                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=pl">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Polski"
+                                             data-src="/static/img/icons/flags/svg/pl.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Polski                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=cz">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Čeština"
+                                             data-src="/static/img/icons/flags/svg/cz.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Čeština                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=hu">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Magyar"
+                                             data-src="/static/img/icons/flags/svg/hu.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Magyar                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=sr">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Српски"
+                                             data-src="/static/img/icons/flags/svg/rs.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Српски                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=hr">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Hrvatski"
+                                             data-src="/static/img/icons/flags/svg/hr.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Hrvatski                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=ua">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Українська"
+                                             data-src="/static/img/icons/flags/svg/ua.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Українська                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=tr">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Türk"
+                                             data-src="/static/img/icons/flags/svg/tr.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Türk                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=bg">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Български"
+                                             data-src="/static/img/icons/flags/svg/bg.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Български                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=gr">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Ελληνικά"
+                                             data-src="/static/img/icons/flags/svg/gr.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Ελληνικά                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=sa">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="العربية"
+                                             data-src="/static/img/icons/flags/svg/sa.svg"
+                                             width="25"
+                                             height="15"/>
+                                        العربية                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=se">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Svenska"
+                                             data-src="/static/img/icons/flags/svg/se.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Svenska                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=il">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="עברית"
+                                             data-src="/static/img/icons/flags/svg/il.svg"
+                                             width="25"
+                                             height="15"/>
+                                        עברית                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=fi">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Suomi"
+                                             data-src="/static/img/icons/flags/svg/fi.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Suomi                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=dk">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Dansk"
+                                             data-src="/static/img/icons/flags/svg/dk.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Dansk                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=no">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Norsk"
+                                             data-src="/static/img/icons/flags/svg/no.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Norsk                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=al">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Shqip"
+                                             data-src="/static/img/icons/flags/svg/al.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Shqip                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=sk">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Slovenčina"
+                                             data-src="/static/img/icons/flags/svg/sk.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Slovenčina                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=lt">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Lietuvių"
+                                             data-src="/static/img/icons/flags/svg/lt.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Lietuvių                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=lv">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Latviešu"
+                                             data-src="/static/img/icons/flags/svg/lv.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Latviešu                                    </a>
+                                                                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=ee">
+                                        <img class="nav-lang lazyload"
+                                             crossorigin
+                                             src="/images/pixel.gif"
+                                             alt="Eesti"
+                                             data-src="/static/img/icons/flags/svg/ee.svg"
+                                             width="25"
+                                             height="15"/>
+                                        Eesti                                    </a>
+                                                                                                                                                </div>
+                    </li>
+                                    </ul>
+            </div>
+            <div class="collapse navbar-collapse" id="navbarNavUser" data-parent="#navbarNavUserWrapper">
+                <div><script>
+    window.notificationsEmptyText = "Нет новых уведомлений";
+</script>
+
+<script>window.deferPush(function (){
+    $(document).ready(function () {
+        $("body").click();
+
+        $(document).on('click', '.notificationsDropdown .dropdown-menu', function (e) {
+            e.stopPropagation();
+        });
+
+        $(".show-text-search").click(function () {
+            $(this).parent().find("input").toggle();
+        });
+
+        $(".notificationsDropdown .notificationsSound").click(function () {
+            if (localStorage.getItem('playNotificationSound') === "1") {
+                localStorage.setItem('playNotificationSound', "0");
+            } else {
+                localStorage.setItem('playNotificationSound', "1");
+            }
+            setNotificationSoundIcon();
+        });
+        function setNotificationSoundIcon() {
+            if (localStorage.getItem('playNotificationSound') == null || localStorage.getItem('playNotificationSound') === "1") {
+                $(".notificationsDropdown .notificationsSound .fa")
+                    .removeClass("fa-volume-mute text-danger")
+                    .addClass("fa-volume-up");
+            } else {
+                $(".notificationsDropdown .notificationsSound .fa")
+                    .addClass("fa-volume-mute text-danger")
+                    .removeClass("fa-volume-up");
+            }
+        }
+        setNotificationSoundIcon();
+
+        if ($("[data-counts='selections']").length) {
+            $.get('/profile/selections/count', {}, function (data) {
+                sessionStorage.setItem('counters.selections', data.count);
+                $("[data-counts='selections']")
+                    .removeAttr("data-counts")
+                    .text(data.count);
+            }, "json");
+        }
+
+        if ($("[data-counts='process-bids']").length) {
+            $.get('/profile/mybids/count', {}, function (data) {
+                $("[data-counts='process-bids'], [data-counts='mob-process-bids']")
+                    .removeAttr("data-counts")
+                    .text(data.count);
+            }, "json");
+        }
+    });
+});</script>
+
+<!-- MOBILE MENU -->
+<div class="d-block d-lg-none d-xl-none">
+    <ul class="navbar-nav">
+            </ul>
+</div>
+
+<!-- DESCTOP MENU -->
+<ul class="navbar-nav d-none d-lg-flex">
+            <li class="nav-item mr-2 d-flex align-items-center">
+            <a class="btn btn-outline-primary" href="/signup">Зарегистрироваться</a>
+        </li>
+    
+            <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownLangTop" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <img class="nav-lang" alt="Русский" src="/static/img/icons/flags/svg/ru.svg" width="25" height="15" />
+            </a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownLangTop">
+                                                            <a class="dropdown-item" href="/change_lang.php?setLanguage=en">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="English" data-src="/static/img/icons/flags/svg/gb.svg" width="25" height="15" /> English                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=fr">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Français" data-src="/static/img/icons/flags/svg/fr.svg" width="25" height="15" /> Français                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=nl">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Nederlands" data-src="/static/img/icons/flags/svg/nl.svg" width="25" height="15" /> Nederlands                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=de">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Deutsch" data-src="/static/img/icons/flags/svg/de.svg" width="25" height="15" /> Deutsch                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=it">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Italiano" data-src="/static/img/icons/flags/svg/it.svg" width="25" height="15" /> Italiano                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=es">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Español" data-src="/static/img/icons/flags/svg/es.svg" width="25" height="15" /> Español                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=pt">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Português" data-src="/static/img/icons/flags/svg/pt.svg" width="25" height="15" /> Português                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=ro">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Română" data-src="/static/img/icons/flags/svg/ro.svg" width="25" height="15" /> Română                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=pl">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Polski" data-src="/static/img/icons/flags/svg/pl.svg" width="25" height="15" /> Polski                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=cz">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Čeština" data-src="/static/img/icons/flags/svg/cz.svg" width="25" height="15" /> Čeština                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=hu">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Magyar" data-src="/static/img/icons/flags/svg/hu.svg" width="25" height="15" /> Magyar                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=sr">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Српски" data-src="/static/img/icons/flags/svg/rs.svg" width="25" height="15" /> Српски                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=hr">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Hrvatski" data-src="/static/img/icons/flags/svg/hr.svg" width="25" height="15" /> Hrvatski                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=ua">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Українська" data-src="/static/img/icons/flags/svg/ua.svg" width="25" height="15" /> Українська                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=tr">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Türk" data-src="/static/img/icons/flags/svg/tr.svg" width="25" height="15" /> Türk                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=bg">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Български" data-src="/static/img/icons/flags/svg/bg.svg" width="25" height="15" /> Български                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=gr">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Ελληνικά" data-src="/static/img/icons/flags/svg/gr.svg" width="25" height="15" /> Ελληνικά                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=sa">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="العربية" data-src="/static/img/icons/flags/svg/sa.svg" width="25" height="15" /> العربية                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=se">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Svenska" data-src="/static/img/icons/flags/svg/se.svg" width="25" height="15" /> Svenska                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=il">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="עברית" data-src="/static/img/icons/flags/svg/il.svg" width="25" height="15" /> עברית                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=fi">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Suomi" data-src="/static/img/icons/flags/svg/fi.svg" width="25" height="15" /> Suomi                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=dk">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Dansk" data-src="/static/img/icons/flags/svg/dk.svg" width="25" height="15" /> Dansk                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=no">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Norsk" data-src="/static/img/icons/flags/svg/no.svg" width="25" height="15" /> Norsk                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=al">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Shqip" data-src="/static/img/icons/flags/svg/al.svg" width="25" height="15" /> Shqip                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=sk">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Slovenčina" data-src="/static/img/icons/flags/svg/sk.svg" width="25" height="15" /> Slovenčina                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=lt">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Lietuvių" data-src="/static/img/icons/flags/svg/lt.svg" width="25" height="15" /> Lietuvių                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=lv">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Latviešu" data-src="/static/img/icons/flags/svg/lv.svg" width="25" height="15" /> Latviešu                        </a>
+                                                                                <a class="dropdown-item" href="/change_lang.php?setLanguage=ee">
+                            <img class="nav-lang lazyload" src="/images/pixel.gif" alt="Eesti" data-src="/static/img/icons/flags/svg/ee.svg" width="25" height="15" /> Eesti                        </a>
+                                                                                    </div>
+        </li>
+    
+            <li class="nav-item">
+            <a class="nav-link show_login_form" href="#login_form" aria-label="Войти">
+                <i class="fa fa-sign-in-alt"></i>
+                Войти            </a>
+        </li>
+    </ul>
+
+    <div class="d-none">
+        <div class="card" id="login_form">
+            <div class="card-body clearfix">
+                <form id="authform-popup" name="authform" method="post" action="/login">
+                    <div class="mb-3 font-weight-bold">Войти на сайт</div>
+
+                    <div class="form-group">
+                        <input type="text" class="form-control" name="login" id="login" placeholder="Enter your email or username" />
+                    </div>
+                    <div class="form-group">
+                        <input type="password" class="form-control" name="pass" id="pass" placeholder="Enter your password" />
+                    </div>
+
+                    <input type="submit" class="btn btn-success mb-2 mb-md-0 w-100" value="Войти на сайт">
+
+                    <div class="text-center mt-2">
+                        <a class="forgotten_pass" href="/passremind">Забыли пароль?</a>
+                    </div>
+
+                    <div class="mt-4 mb-4" style="border-bottom: 2px dashed #b6b6b6"></div>
+
+
+                    <div class="mb-3 font-weight-bold">Впервые у нас?</div>
+                    <a class="btn btn-outline-primary w-100" href="/signup">Зарегистрироваться</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+            </div>
+        </nav>
+        <div id="cio_banner_placeholder"></div>
+    
+    <script>
+        (function (){
+            if (navigator.osLabel === 'iOS') {
+                document.body.classList.add('is-ios');
+            }
+        })()
+    </script>
+
+    <div class="page-content" id="app">
+        <div id="SystemHintMessageMain">
+                    </div>
+
+        
+        <div class="container"><div id="crumbs"><ul itemscope='' itemtype ='http://schema.org/BreadcrumbList'><li itemscope='' itemprop='itemListElement' itemtype='http://schema.org/ListItem'><span class='crumbs-item'><a itemprop='item' href='/' class=''><i class='fa fa-home' aria-hidden='true'></i></a><meta itemprop='name' content='eCarsTrade'><meta itemprop='position' content='1'></span></li><li itemscope='' itemprop='itemListElement' itemtype='http://schema.org/ListItem'><span class='crumbs-item'><a itemprop='item' href='/blog' class=''>Blog</a><meta itemprop='name' content='Blog'><meta itemprop='position' content='2'></span></li><li itemscope='' itemprop='itemListElement' itemtype='http://schema.org/ListItem'><span>Как фотографировать подержанные автомобили для увеличения продаж — практическое руководство для трейдеров</span><meta itemprop='name' content='Как фотографировать подержанные автомобили для увеличения продаж — практическое руководство для трейдеров'><meta itemprop='position' content='3'></span></li></ul></div></div>
+        
+        
+            <div class="container py-3 site-content">
+                <div class="row">
+                    
+<div class="col-12">
+	<style>.page-content table {
+background:white;
+border-radius: 10px;
+}
+
+.page-content tr {
+font-size:0.8em;
+vertical-align:top !important;
+line-height: 1.5em;
+}
+
+.page-content .page-content td, th {
+padding: 10px;
+}
+
+.page-content td {
+border-top: 1px #cbcbcb solid;
+}
+
+.page-content ul
+{
+margin-left: 2em !important;
+}
+
+
+.page-content #crumbs {
+	max-width: 1000px;
+    	min-width: 350px;
+    	width: 100%;
+	margin: 1em auto 0;
+	padding-top: 20px;
+    	padding-left: 10px;
+}
+
+.page-content #crumbs .page-content ul {
+margin-left: 0 !important;
+}
+
+.page-content .site-content .row {
+	max-width: 1000px;
+        font-size: 21px;
+        line-height: 1.5em;
+    	min-width: 350px;
+    	width: 100%;
+	margin: 0 auto;
+	font-family: /* charter, Georgia, Cambria, "Times New Roman", Times, serif; */
+-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+	
+.page-content h1 {
+	font-size: 2em;
+	font-weight: bold;
+line-height: 1.1em;
+}
+
+.page-content h2 {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 2em;
+}
+
+.page-content h3 {
+	font-size: 1.25em;
+	font-weight: bold;
+	margin-top: 1em;
+}
+
+.page-content h4 {
+font-size: 1em;
+}
+
+.page-content .site-content img {
+	max-width: 100%;
+	height: auto;
+	margin: 2em auto 0;
+	display: block;
+}
+
+.page-content .con_text .small_img {
+	max-width: 45%;
+}
+
+.page-content .con_text  ol {
+	list-style-type: disc;
+}
+
+.page-content .con_text a {
+	word-break:break-all;
+	color: #626262;
+}
+
+.page-content .ital {
+	font-style: italic;
+}
+
+.page-content .bold {
+	font-weight: bold;
+}
+
+.page-content .img_block {
+	width: 90%;
+	margin: 15% auto 2%;
+}
+
+.page-content .quotation {
+	border-bottom: 1px solid gray;
+    	border-top: 1px solid gray;
+	font-style: italic;
+	font-size: 1.5em;
+	line-height: 1.4em;
+	margin: 1em 0;
+	text-indent: -0.5em;
+	// width: 80vw;
+    	padding: 0.5em 0;
+	position: relative;
+	left: calc(-35vw +50%);
+	}
+
+.page-content .alt {
+	font-style: italic;
+    	color: #9c9c9c;
+	text-align: center;
+}
+
+.page-content .tag {
+	color: #969696;
+	margin: 0 auto 1em;
+}
+@media screen and (max-width: 600px) {
+  .page-content .cta_banner {
+    background-image: URL("/images/CTA_banner_mobile.png");
+    background-repeat: no-repeat;
+background-position: center top;
+    background-size: 100% auto;
+    margin: 1em auto;
+    height: 0;
+    padding-top: 94.5%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  .page-content .cta_banner {
+    background-image: URL("/images/CTA_banner_desktop.png");
+    background-repeat: no-repeat;
+background-position: center top;
+    background-size: 100% auto;
+    margin: 1em auto;
+    height: 0;
+    padding-top: 27.4%;
+    width: 100%;
+  }
+}</style><h1><strong>Как фотографировать подержанные автомобили для увеличения продаж &mdash; практическое руководство для трейдеров</strong></h1>
+
+<p><em>Наше пошаговое руководство по созданию отличных фотографий подержанных автомобилей для вашего автосалона. Делайте профессиональные фотографии для своего автобизнеса и увеличивайте продажи!</em> <img alt="Большая фотостудия с автомобилем и несколькими источниками света" src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742217031795_how-to-take-car-photos-for-dealership-4_01JPJ3MCYTQS7H15HSME0SAH41.jpg" /></p>
+<style type="text/css">.key-takeaways {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 10px; /* Reduced padding */
+  margin-bottom: 20px;
+  border-radius: 5px;
+  font-size: 16px; /* Adjust font size as needed */
+}
+.key-takeaways h2 {
+  color: #333;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 1.2em; /* Smaller heading */
+}
+.key-takeaways ul {
+  list-style-type: disc;
+  padding-left: 1px;
+  margin: 0; /* Remove default ul margin */
+}
+.key-takeaways li {
+  margin-bottom: 8px;
+  line-height: 1.4;
+  padding-left: 0; /* Small/none for text */
+}
+@media (max-width: 768px) {
+  .key-takeaways ul { padding-left: 0; }
+  .key-takeaways li { padding-left: 0; }
+}
+@media (max-width: 480px) {
+  .key-takeaways ul { padding-left: 0; }
+}
+</style>
+<div class="key-takeaways">
+<h2><strong><span class="notranslate" translate="no">Основные выводы</span></strong></h2>
+
+<ul>
+	<li><strong>Качественные</strong> , <strong>хорошо освещенные</strong> фотографии повышают доверие и помогают вашим объявлениям выделиться.</li>
+	<li>Используйте единый <strong>контрольный список фотографий</strong> и <strong>одну и ту же среду съемки,</strong> чтобы сохранить профессиональный вид.</li>
+	<li>Будьте честны: <strong>всегда документируйте повреждения</strong> или износ крупным планом, чтобы избежать сюрпризов.</li>
+	<li><strong>Базовые изменения</strong> , такие как регулировка яркости, контрастности или кадрирование, вполне допустимы, но слишком интенсивное редактирование делает фотографии ненадежными.</li>
+	<li><strong>Главный снимок</strong> (фронтальный под углом 45&deg;) &mdash; это ваше самое важное изображение.</li>
+</ul>
+</div>
+
+<p><br />
+Качественная фотосъёмка в автосалонах играет важнейшую роль в продаже подержанных автомобилей. На конкурентном рынке чёткие и профессиональные изображения могут <strong>укрепить доверие, привлечь покупателей и увеличить продажи</strong> .</p>
+
+<p>Исследования показывают, что на большинство покупателей при совершении покупки оказывают влияние фотографии &mdash; и автомобили не являются исключением.</p>
+
+<p>Хорошая новость? Для профессиональной съёмки автомобилей вам <strong>не нужно дорогостоящее оборудование</strong> . Независимо от того, используете ли вы зеркальную камеру, беззеркальную камеру или смартфон, соблюдение правильных приёмов съёмки сыграет огромную роль.</p>
+
+<p>Это пошаговое руководство научит вас, как фотографировать автомобили для продажи, оптимизировать процесс фотосъемки и представлять автомобили таким образом, чтобы это способствовало увеличению продаж у дилера.</p>
+
+<h2><strong>Как фотографировать автомобили для вашего автосалона</strong></h2>
+
+<h3><strong>1. Инвестируйте в хорошее фотооборудование</strong></h3>
+
+<p>Первый шаг в автосалонной фотосъёмке &mdash; выбор <strong>подходящей камеры или смартфона</strong> . Качественное изображение производит сильное первое впечатление и внушает клиентам <strong>уверенность в состоянии автомобиля</strong> .</p>
+
+<p>Вы можете выбрать между:</p>
+
+<ul>
+	<li><strong>Зеркальные или беззеркальные камеры</strong> &mdash; обратите внимание на модели с разрешением не менее 20 Мп от таких брендов, как Nikon, Canon или Sony. При использовании только одного объектива зум-объектив 24&ndash;70 мм или 15&ndash;45 мм идеально подходит для широкоугольной съемки и съёмки крупным планом. Эти камеры предоставляют больше возможностей для управления освещением, резкостью и детализацией.</li>
+	<li><strong>Смартфоны с несколькими камерами</strong> &mdash; современные смартфоны достаточно производительны для съёмки в автосалонах, обеспечивая широкоугольные и детальные снимки без дополнительных объективов. Такие функции, как портретный режим, HDR и ночной режим, помогают делать чёткие снимки в разных условиях освещения.</li>
+</ul>
+
+<p><br />
+<strong>Преимущество смартфона</strong> заключается в простоте использования: быстрое переключение между фото и видеосъемкой, мгновенная передача файлов и компактный дизайн делают его удобным для фотосъемки автомобилей для дилерского центра.</p>
+
+<p>Независимо от вашего выбора, цель состоит в том, чтобы сделать качественные, хорошо освещенные снимки, которые <strong>точно отображают состояние автомобиля</strong> , заслуживая доверие клиентов.</p>
+
+<p><img alt="Крупный план мужчины, фотографирующего на зеркальную фотокамеру красную машину в фотостудии." src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742217043100_how-to-take-car-photos-for-dealership-9_01JPJ3MR093PSWCGD0XG981380.jpg" /></p>
+
+<h3><strong>2. Используйте штатив для устойчивости.</strong></h3>
+
+<p>Штатив &mdash; простой, но эффективный инструмент для улучшения качества фотографий в автосалоне. Он <strong>предотвращает размытость</strong> , обеспечивает точное кадрирование и помогает при панорамной съёмке.</p>
+
+<p>Даже недорогие штативы (от 20 евро) <strong>обеспечивают стабилизацию снимков</strong> , особенно в условиях слабого освещения или при съёмке интерьеров с высокой детализацией. Если вы используете смартфон, приобретите штатив с кнопкой дистанционного управления спуском затвора, чтобы уменьшить движение руки во время съёмки.</p>
+
+<p>Использование штатива позволяет добиться изысканного, профессионального вида.</p>
+
+<p><img alt="Профессиональная зеркальная фотокамера установлена на штативе перед красным автомобилем." src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742217029584_how-to-take-car-photos-for-dealership-3_01JPJ3MASP0HWFY51BXXK3G207.jpg" /></p>
+
+<h3><strong>3. Выберите правильное место для фотографий</strong></h3>
+
+<p>Для фотосъемки автомобилей в автосалонах важно <strong>выбрать подходящее и свободное от отвлекающих факторов место</strong> .</p>
+
+<p>Выбранное вами место должно четко выделять автомобиль, без загромождения или визуального шума на заднем плане.</p>
+
+<ul>
+	<li><strong>Размещение на открытом воздухе</strong> : выберите место с минимальным количеством отвлекающих факторов &mdash; без припаркованных автомобилей, линий электропередач или мусорных баков в кадре. Желательно найти угол с высокими стенами нейтрального цвета. Некоторые дилеры предпочитают фотографироваться на фоне логотипа своего дилерского центра, но фон должен оставаться чистым.</li>
+	<li><strong>Размещение в помещении</strong> : если возможно, создайте простую автомобильную фотостудию с белыми стенами и постоянным светодиодным освещением для равномерной яркости со всех сторон.</li>
+</ul>
+
+<p><br />
+Последовательность имеет значение. Использование одного и того же местоположения для всех автомобилей обеспечивает целостный вид вашего автосалона, делая объявления вашего автосалона более профессиональными и заслуживающими доверия.<br />
+<br />
+<img alt="" src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742220200827_how-to-take-car-photos-for-dealership-13_01JPJ6N5KWZNZ2YXBRM704Y6M9.jpeg" /></p>
+
+<p style="text-align: center;"><em>Автофотостудия eCarsTrade, где мы сами делаем все фотографии для <a href="/auctions/stock">нашего автопарка.</a></em></p>
+
+<h3><strong>4. Правильное освещение имеет важное значение.</strong></h3>
+
+<p>Освещение играет решающую роль при фотосъемке в автосалонах.</p>
+
+<p>Хорошо освещенный автомобиль выглядит <strong>более четким, детализированным и привлекательным</strong> , в то время как плохое освещение может привести к появлению резких теней, бликов или передержки, из-за чего покупателям будет сложнее рассмотреть важные детали.</p>
+
+<ul>
+	<li><strong>Для съёмки на открытом воздухе</strong> лучшее время &mdash; <strong>раннее утро или поздний вечер</strong> , когда солнце находится ниже и даёт более мягкий и сбалансированный свет. Полуденный солнечный свет слишком резкий, создавая резкие тени и отражения, которые могут скрывать детали.</li>
+	<li><strong>В пасмурные дни</strong> свет <strong>рассеивается естественным образом</strong> , что снижает резкие контрасты и делает это время идеальным для фотосъемки на автостоянках.</li>
+	<li><strong>Для освещения внутри помещения</strong> используйте <strong>постоянное светодиодное освещение,</strong> расположенное по всему салону, в том числе на потолке, чтобы исключить темные пятна и обеспечить равномерное освещение. Покраска стен белой краской поможет отразить падающий свет и обеспечит хорошее освещение салона со всех сторон.<br />
+	<br />
+	Чтобы предотвратить блики и создать более мягкое и равномерное освещение, поместите между автомобилем и фарами <strong>фотошёлк</strong> или <strong>рассеивающую плёнку</strong> . Это поможет равномерно распределить свет и уменьшить резкие блики на поверхности автомобиля, делая детали более чёткими, а отделку &mdash; более естественной.</li>
+</ul>
+
+<p><img alt="Honda City припаркована в парке, окруженном зелеными деревьями." src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742217040886_how-to-take-car-photos-for-dealership-8_01JPJ3MNTT8AFG77D7B3KAWE3C.jpg" /></p>
+
+<h3><strong>5. Очистите автомобиль.</strong></h3>
+
+<p>Чистый автомобиль выглядит более профессионально и <a href="/blog/how-to-keep-your-customers-loyalty-car-dealerships" target="_blank">помогает завоевать доверие покупателей</a> .</p>
+
+<p>Перед фотосъёмкой вымойте кузов, отполируйте отражающие поверхности и пропылесосьте салон. Протрите приборную панель, экраны и сиденья, чтобы удалить пыль и отпечатки пальцев.</p>
+
+<p>Обратите внимание на колеса и шины, поскольку грязные диски могут испортить внешний вид даже ухоженного автомобиля.</p>
+
+<p>Чистка автомобиля позволит вам достоверно показать и задокументировать все повреждения автомобиля, что особенно важно для автодилеров и других специалистов в автомобильной отрасли, желающих продать свои автомобили как можно быстрее и профессиональнее.</p>
+
+<h3><br />
+<strong>6. Выберите лучшую фотографию-&laquo;героя&raquo;</strong></h3>
+
+<p>Главное фото &mdash; это первое изображение, которое видят покупатели, поэтому оно является самым важным снимком.</p>
+
+<p>Широко используется <strong>45-градусный левосторонний угол,</strong> поскольку он представляет как передний, так и боковой профили, создавая сбалансированный и привлекательный вид.</p>
+
+<p>Почему? По той же причине, по которой люди предпочитают читать текст, выровненный по левому краю, а не по правому или по центру. Наш мозг предпочитает текст, выровненный по левому краю, и то же самое касается фотографий автомобилей. Мы рекомендуем этот ракурс и используем его для всех наших автомобилей в eCarsTrade.</p>
+
+<p>Расположите автомобиль на ровной поверхности, убедитесь, что он полностью виден в кадре, и <strong>слегка поверните передние колеса вправо,</strong> чтобы продемонстрировать литые диски.<br />
+<img alt="Скриншот сайта eCarsTrade с фотографиями автомобилей" src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742217047770_how-to-take-car-photos-for-dealership-11_01JPJ3MWJ98WD1GJ2PN19HKMQR.jpg" /></p>
+
+<h3><strong>7. Создайте контрольный список фотографий</strong></h3>
+
+<p>Структурированный подход обеспечивает единообразие всех объявлений. Контрольный список снимков поможет вам запечатлеть каждую важную деталь, не упустив ничего.</p>
+
+<p>Держите контрольный список снимков рядом с тем местом, где вы планируете фотографировать свои автомобили. Так вы всегда сможете свериться с ним, чтобы все ваши фотосессии выглядели целостно. Например, стандартные снимки включают:</p>
+
+<ol>
+	<li>Фото героя (левый фронтальный ракурс)</li>
+	<li>Фотография под углом 45 градусов (правый фронтальный угол)</li>
+	<li>Прямое фото спереди</li>
+	<li>Прямое фото сбоку</li>
+	<li>Крупные планы приборной панели</li>
+	<li>Крупный план колес и т. д.</li>
+</ol>
+
+<p><br />
+Фотографируя автомобиль, нужно помнить о многом, поэтому легко что-то забыть. Список кадров не позволит вам забыть важные кадры.<br />
+<img alt="Крупный план салона красного автомобиля Seat" src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742217045313_how-to-take-car-photos-for-dealership-10_01JPJ3MT55MBF1VXJ4NCCRPQEG.jpg" /></p>
+
+<h3><strong>8. Запечатлейте каждую деталь</strong></h3>
+
+<p>Покупатели полагаются на подробные фотографии, чтобы оценить состояние автомобиля.</p>
+
+<p>Начните с <strong>основных внешних снимков</strong> , включая виды спереди, сзади и сбоку.</p>
+
+<p>Перейдем к <strong>интерьеру</strong> , запечатлевая приборную панель, информационно-развлекательную систему, сиденья и багажник.</p>
+
+<p>Снимите <strong>крупным планом ключевые элементы</strong> , такие как одометр, органы управления на рулевом колесе и цифровые дисплеи. Если у автомобиля есть <strong>уникальные особенности</strong> , например, люк на крыше или передовые системы безопасности, выделите их.</p>
+
+<p>Вы также можете прикрепить фотографию имеющихся документов и ключей на автомобиль. Например, в eCarsTrade, если у автомобиля есть сертификат соответствия, мы покажем его на фотографиях.</p>
+
+<p>Таким образом, наши клиенты учатся доверять нашим фотографиям как правдивому и достоверному источнику информации. Как продавец, сделайте свои фотографии максимально подробными, чтобы упростить процесс покупки для своих клиентов.</p>
+
+<p>&nbsp;</p>
+
+<h3><strong>9. Четко документируйте любые повреждения.</strong></h3>
+
+<p>Одна из самых больших ошибок при фотосъемке автомобилей в автосалонах &mdash; не показывать царапины, вмятины и другие следы износа. Скрытие недостатков может привести к потере доверия и жалобам клиентов, особенно онлайн-покупателей, которые полагаются на прозрачность объявлений.</p>
+
+<ul>
+	<li>Используйте <strong>печатные маркеры или наклейки,</strong> чтобы обозначить царапины, вмятины или следы износа.</li>
+	<li><strong>Сфотографируйте повреждения крупным планом</strong> , убедившись, что они хорошо видны и освещены.</li>
+	<li>Сфотографируйте сколы краски, износ обивки, потертости на приборной панели и любые другие видимые дефекты.</li>
+</ul>
+
+<p><br />
+Честное признание недостатков автомобиля повышает доверие покупателя и снижает количество послепродажных споров. Покупатели ценят дилерские центры, которые предоставляют полную информацию о состоянии автомобиля.</p>
+
+<p><img alt="Распечатка стрелки eCarsTrade, указывающая на небольшое повреждение автомобиля" src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742217038417_how-to-take-car-photos-for-dealership-7_01JPJ3MKR1J6KNPXYRBR6FXTA2.jpg" /></p>
+
+<h3><strong>10. Изучите основы редактирования для достижения профессиональных результатов</strong></h3>
+
+<p>Даже самые лучшие фотографии иногда нуждаются в <strong>незначительной корректировке</strong> для улучшения четкости и яркости.</p>
+
+<p><strong>Простые инструменты редактирования</strong> помогут улучшить ваши изображения, сохранив при этом их реалистичность.</p>
+
+<p>Бесплатные или простые в использовании приложения, такие как Pixlr, Snapseed или Afterlight, могут помочь вам:</p>
+
+<ul>
+	<li>Осветлите недоэкспонированные изображения, чтобы сделать детали более четкими.</li>
+	<li>Отрегулируйте контрастность и резкость для улучшения текстур.</li>
+	<li>Правильный баланс белого для точной цветопередачи.</li>
+	<li>Обрезайте отвлекающие элементы, не отрезая важные части транспортного средства.</li>
+</ul>
+
+<p><br />
+Избегайте чрезмерного редактирования &mdash; ваша цель &mdash; представить <strong>реалистичные и точные изображения</strong> , а не выставить автомобиль в лучшем свете. Покупатели оценят подлинные, качественные фотографии, а не сильно изменённые.<br />
+<br />
+<img alt="Графика eCarsTrade, показывающая фотографию автомобиля до и после редактирования" src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742217024241_how-to-take-car-photos-for-dealership-1_01JPJ3M5T47THAXS4JAFP654WQ.jpg" /></p>
+
+<h2><strong>Другие идеи для фотосессий в автосалонах</strong></h2>
+
+<p>Качественная фотосъемка в автосалоне нужна не только для размещения товаров в каталогах &mdash; она также важна для взаимодействия в социальных сетях, маркетинговых кампаний и мероприятий автосалона.</p>
+
+<p>Вот лучшие способы оптимизации фотографий для разных платформ.</p>
+
+<h3><br />
+<strong>Для постов в социальных сетях</strong></h3>
+
+<p>Социальные сети созданы для быстрого привлечения внимания. Чтобы сделать фотографии вашего автосалона заметными:</p>
+
+<ul>
+	<li>Используйте <strong>интересные ракурсы</strong> и <strong>динамичные снимки</strong> , чтобы представить автомобили в привлекательной форме.</li>
+	<li>Снимайте <strong>снимки повседневной жизни</strong> &mdash; фотографии автомобилей в реальных условиях, например, на живописных дорогах, в городских условиях или в местах для семейного отдыха.</li>
+	<li>Добавьте <strong>фотографии из-за кулис</strong> вашего дилерского центра, команды или процесса подготовки автомобиля, чтобы завоевать доверие потенциальных покупателей.</li>
+	<li>Поэкспериментируйте с <strong>панорамными фотографиями и короткими видеороликами автосалонов,</strong> чтобы создать интерактивный обзор.</li>
+	<li>Добавьте <strong>текстовые наложения,</strong> подчеркивающие ключевые функции, акции или специальные предложения.</li>
+</ul>
+
+<p><br />
+<strong><span style="color:#c0392b;">Совет</span></strong> : Публикации с людьми, как правило, эффективнее. Покажите, как сотрудники вручают ключи от машины довольным клиентам или взаимодействуют с автомобилями.</p>
+
+<h3><br />
+<strong>Для мероприятий</strong></h3>
+
+<p>Мероприятия &mdash; это прекрасная возможность запечатлеть интересный контент, который вызовет ажиотаж вокруг вашего автосалона.</p>
+
+<ul>
+	<li>Сделайте <strong>широкоугольные снимки места проведения мероприятия</strong> , запечатлевая всю обстановку.</li>
+	<li>Демонстрируйте <strong>новые поступления, опыт тест-драйва</strong> и <strong>взаимодействия с клиентами</strong> .</li>
+	<li>Если вы проводите <strong>специальную акцию или розыгрыш призов,</strong> сфотографируйте победителей и ключевые моменты.</li>
+	<li>Используйте <strong>фирменные элементы</strong> на своих изображениях, например баннеры, логотипы автосалонов или вывески, чтобы усилить узнаваемость бренда.</li>
+</ul>
+
+<p><br />
+<strong><span style="color:#c0392b;">Совет</span></strong> : публикуйте обзоры мероприятий на своем веб-сайте и в социальных сетях, используя фотографии, чтобы выделить ключевые моменты и создать долгосрочную вовлеченность.</p>
+
+<h2><img alt="" src="https://userimg-assets-eu.customeriomail.com/images/client-env-107673/1742252475039_DSC_7647_01JPK5E7KWRDTTT5MWK905XW2J.jpg" /></h2>
+
+<h2><strong>Ошибки, которые вы, вероятно, совершаете, фотографируя автомобили</strong></h2>
+
+<p>Даже самые лучшие советы по фотосъёмке в автосалонах, распространённые ошибки могут снизить качество ваших объявлений. Вот чего следует избегать.</p>
+
+<h3><br />
+<strong>Стрельба вечером</strong></h3>
+
+<p>Вечерние снимки могут выглядеть стильно, но часто получаются с плохим освещением, глубокими тенями и зернистостью. В условиях слабого освещения цвета автомобилей выглядят тусклыми и скрывают важные детали, которые ценят покупатели.</p>
+
+<p><strong><span style="color:#c0392b;">Решение</span></strong> : Снимайте на улице рано утром или поздно вечером для лучшего естественного освещения. При съёмке в помещении используйте постоянное светодиодное освещение и фотошёлк для равномерного рассеивания света.</p>
+
+<h3><br />
+<strong>Чрезмерное редактирование фотографий</strong></h3>
+
+<p>Чрезмерное редактирование может сделать автомобили нереалистичными, что вызовет недоверие покупателей. Перенасыщенные цвета, чрезмерный контраст или искусственное размытие могут исказить реальное состояние автомобиля.</p>
+
+<p><strong><span style="color:#c0392b;">Решение</span></strong> : Используйте только коррекцию света &mdash; отрегулируйте яркость, контрастность и баланс белого для соответствия реальным цветам. Избегайте фильтров, которые искажают внешний вид автомобиля.</p>
+
+<h3><br />
+<strong>Загроможденные фоны</strong></h3>
+
+<p>Неряшливый фон может отвлекать внимание от автомобиля и придавать вашему объявлению непрофессиональный вид. Другие припаркованные автомобили, линии электропередач, мусорные баки и вывески автосалона могут отвлекать внимание от автомобиля, который вы пытаетесь продать.</p>
+
+<p><strong><span style="color:#c0392b;">Решение</span></strong> : Выберите чистое, нейтральное место с минимальным количеством отвлекающих факторов. Если снимаете на улице, найдите пустую стену, открытую площадку или специальное место в автосалоне с подходящим кадром. Для съёмки в помещении используйте белый фон или специальное пространство в выставочном зале, чтобы сохранить единообразие.</p>
+
+<h3><br />
+<strong>Игнорирование интерьерных снимков</strong></h3>
+
+<p>Многие дилерские центры фокусируются только на фотографиях экстерьера, оставляя покупателей гадать о состоянии и особенностях интерьера. Отсутствие ключевых снимков, таких как приборная панель, информационно-развлекательная система, сиденья и показания одометра, делает ваше объявление неполным.</p>
+
+<p><strong><span style="color:#c0392b;">Решение</span></strong> : Всегда прилагайте подробные фотографии салона, на которых видны приборная панель, кнопки, цифровые дисплеи, сиденья и багажное отделение. Подчеркните особенности, такие как подогрев сидений, навигационная система и люк в крыше. Покупатели ценят прозрачность и полный обзор автомобиля.</p>
+
+<h3><br />
+<strong>Не документирование ущерба</strong></h3>
+
+<p>Недостаточное выявление царапин, вмятин или износа может привести к жалобам и спорам со стороны покупателя. Клиенты рассчитывают на честность, и попытка скрыть недостатки может нанести ущерб репутации вашего автосалона.</p>
+
+<p><strong><span style="color:#c0392b;">Решение</span></strong> : Чётко сфотографируйте все видимые повреждения и укажите проблемные места с помощью печатных маркеров или стрелок. Приложите крупные планы вмятин, сколов краски, износа обивки или потёртостей на приборной панели. Прозрачность укрепляет доверие и помогает покупателям быть более уверенными в покупке.</p>
+
+<h2><strong>Как фотографировать автомобили и увеличивать продажи</strong></h2>
+
+<p>Качественная фотография автосалона &mdash; это не только эстетика, она напрямую влияет на доверие покупателей и эффективность продаж.</p>
+
+<p>Высококачественные фотографии укрепят доверие клиентов, повысят продажи и даже дадут вам конкурентное преимущество перед другими дилерскими центрами.</p>
+
+<p>Мы твердо убеждены, что великолепные фотографии, отражающие характеристики и состояние автомобиля, могут быть даже лучше, чем его осмотр вживую.</p>
+
+<p><a href="ecarstrade.com/blog/video-tips-for-your-car-busines" target="_blank">Подчеркивая каждую деталь на видео</a> и фотографиях, мы гарантируем, что ничего не будет упущено из виду, и вы сможете принять полностью обоснованное решение перед покупкой.</p>
+
+<p>Мы надеемся, что эти шаги помогут вам усовершенствовать свои навыки фотосъемки и вывести свой бизнес на новый уровень!</p>
+
+<h2 data-end="311" data-start="128"><strong>Часто задаваемые вопросы</strong></h2>
+
+<p data-end="311" data-start="128"><strong data-end="182" data-start="128">► Сколько фотографий следует включить в описание автомобиля?</strong><br data-end="185" data-start="182" />
+Необходимо включить не менее 15&ndash;25 фотографий. Покажите все основные ракурсы экстерьера, интерьер и крупные планы деталей или повреждений.</p>
+
+<p data-end="551" data-start="313"><br />
+<strong data-end="182" data-start="128">►</strong> <strong data-end="364" data-start="313">Какие ракурсы автомобиля наиболее важны для покупателей?</strong><br data-end="367" data-start="364" />
+Наиболее важными являются снимки спереди под углом 45&deg; (главный снимок), прямые виды спереди, сзади и сбоку, вид сзади в три четверти, а также четкие фотографии приборной панели, сидений, багажника и деталей салона.</p>
+
+<p data-end="747" data-start="553"><br />
+<strong data-end="182" data-start="128">►</strong> <strong data-end="605" data-start="553">Какие ошибки чаще всего встречаются на фотографиях автомобилей?</strong><br data-end="608" data-start="605" />
+К распространенным ошибкам относятся съемка при ярком свете, игнорирование снимков в интерьере, чрезмерное редактирование, использование неаккуратного фона или сокрытие повреждений.</p>
+
+<p data-end="947" data-start="749"><br />
+<strong data-end="182" data-start="128">►</strong> <strong data-end="801" data-start="749">Как сделать так, чтобы фотографии старых автомобилей выглядели лучше?</strong><br data-end="804" data-start="801" />
+Очистите и детализируйте автомобиль, используйте мягкое и равномерное освещение, выделяйте уникальные детали, обрезайте отвлекающие детали и честно демонстрируйте износ, чтобы вызвать доверие.</p>
+
+<p data-end="1117" data-start="949"><br />
+<strong data-end="182" data-start="128">►</strong> <strong data-end="998" data-start="949">Помогают ли профессиональные фотографии продавать автомобили быстрее?</strong><br data-end="1001" data-start="998" />
+Да. Четкие и профессиональные фотографии придают покупателям уверенности, уменьшают количество вопросов и, как правило, способствуют более быстрым продажам.</p>
+<style type="text/css">.card {
+            font-family: font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+            max-width: 600px;
+            margin: 20px auto;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease;
+        }
+        .card:hover {
+            transform: scale(1.02);
+        }
+        .card-header {
+            background-color: #dc3545;
+            color: white;
+            padding: 20px;
+            font-size: 22px;
+            font-weight: bold;
+        }
+        .card-body {
+            padding: 20px;
+font-size: 16px;
+        }
+.card-container {
+  display: flex;
+  justify-content: center; 
+}
+        .feature-list {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            margin-bottom: 20px;
+font-size: 16px;
+        }
+        .feature-item {
+            display: flex;
+            align-items: center;
+        }
+        .feature-item a {
+            color: #dc3545;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .feature-item a:hover {
+            text-decoration: underline;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #dc3545;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        .cta-button:hover {
+            background-color: #c82333;
+        }
+        .card-footer {
+            background-color: #f8f9fa;
+            padding: 15px 20px;
+            font-size: 16px;
+            color: #6c757d;
+        }
+</style>
+<div class="card-container notranslate" translate="no">
+<div class="card">
+<div class="card-header">Блог eCarsTrade - Экспертные ресурсы и советы</div>
+
+<div class="card-body">
+<p>eCarsTrade - это не просто платформа для проведения онлайн-аукционов, мы также являемся ценным ресурсом для автодилеров и трейдеров. В нашем блоге вы найдете советы экспертов по различным темам, в том числе:</p>
+
+<div class="feature-list">
+<div class="feature-item"><a href="/blog/how-to-buy-cars-from-another-country" target="_blank">Как покупать автомобили за рубежом?</a></div>
+
+<div class="feature-item"><a href="/blog/best-vin-decoders-for-car-history" target="_blank">Как расшифровать VIN-номер</a></div>
+
+<div class="feature-item"><a href="/blog/building-relationships-with-customers-tips-from-sales-experts" target="_blank">Как построить отношения с клиентами?</a></div>
+
+<div class="feature-item"><a href="/blog/how-to-start-a-used-car-dealership" target="_blank">Открытие дилерского центра по продаже подержанных автомобилей</a></div>
+
+<div class="feature-item"><a href="/blog/marketing-strategies-for-car-dealerships" target="_blank">Маркетинговые стратегии для автомобильной промышленности</a></div>
+
+<div class="feature-item"><a href="/blog/inventory-management-for-car-dealers" target="_blank">Управление запасами для автодилеров</a></div>
+</div>
+<a class="cta-button" href="/blog">Откройте для себя нашу базу знаний!</a></div>
+
+<div class="card-footer">Оставайтесь в курсе событий и опережайте конкурентов благодаря нашим полезным статьям!</div>
+</div>
+</div>
+<script>
+(function () {
+  function initializeTOC() {
+    // Reuse if it already exists, otherwise create
+    let contents = document.getElementById('js-toc');
+    if (!contents) {
+      contents = document.createElement('nav');
+      contents.id = 'js-toc';
+      contents.setAttribute('aria-label', 'Table of contents');
+    } else {
+      contents.innerHTML = ''; // reset if re-running
+    }
+
+    const keyTakeaways = document.querySelector('.key-takeaways');
+    const firstH2 = document.querySelector('h2');
+    if (keyTakeaways) keyTakeaways.insertAdjacentElement('afterend', contents);
+    else if (firstH2) firstH2.insertAdjacentElement('beforebegin', contents);
+    else document.body.prepend(contents);
+
+    // Collect only meaningful H2/H3s not inside the TOC
+    const all = Array.from(document.querySelectorAll('h2, h3'));
+    const headers = all.filter(h => {
+      if (h.closest('#js-toc')) return false;
+      const text = h.textContent.replace(/s+/g, ' ').trim();
+      const hasImg = !!h.querySelector('img');
+      return text.length > 0 && !hasImg;
+    });
+
+    const footer = document.querySelector('footer');
+    const tocLinks = [];
+    const usedIds = new Set();
+    let seq = 1;
+
+    // Unicode-safe slugify
+    function slugify(str) {
+      const base = (str || '')
+        .toString()
+        .normalize('NFD')
+        .replace(/p{M}+/gu, '')
+        .toLowerCase()
+        .trim()
+        .replace(/[^p{L}p{N}]+/gu, '-')
+        .replace(/^-+|-+$/g, '');
+      return base || 'section';
+    }
+
+    function ensureId(el) {
+      const existing = (el.id || '').trim();
+      let base = existing ? existing : slugify(el.textContent);
+      let id = base;
+      while (!id || usedIds.has(id) || document.getElementById(id)) {
+        id = base + '-' + (seq++);
+      }
+      el.id = id;
+      usedIds.add(id);
+    }
+
+    headers.forEach(h => {
+      if ((h.id || '').toLowerCase() === 'continue-reading') return;
+      ensureId(h);
+      const link = document.createElement('a');
+      link.href = '#' + h.id;
+      link.textContent = h.textContent.replace(/s+/g, ' ').trim();
+      link.className = 'js-toc-link';
+      if (h.tagName.toLowerCase() === 'h3') link.classList.add('is-h3');
+      contents.appendChild(link);
+      tocLinks.push(link);
+    });
+
+    function onScroll() {
+      let currentIndex = 0;
+      headers.forEach((h, i) => {
+        const top = h.getBoundingClientRect().top;
+        if (top < window.innerHeight / 2) currentIndex = i;
+      });
+      tocLinks.forEach(a => a.classList.remove('active'));
+      if (tocLinks[currentIndex]) tocLinks[currentIndex].classList.add('active');
+
+      if (footer && getComputedStyle(contents).position === 'fixed') {
+        const footerTop = footer.getBoundingClientRect().top;
+        const hgt = contents.offsetHeight;
+        const winH = window.innerHeight;
+        if (footerTop < winH) {
+          contents.style.top = (footerTop - hgt - 20) + 'px';
+        } else {
+          contents.style.top = '';
+        }
+      }
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initializeTOC);
+  } else {
+    initializeTOC();
+  }
+})();
+</script>
+<style type="text/css">/* Container */
+#js-toc {
+  position: fixed;
+  left: 20px;
+  top: 100px;
+  width: 300px;
+  padding: 12px 16px;        /* tighter padding */
+  border-radius: 8px;
+  z-index: 1000;
+
+  /* smaller, consistent type + more items visible */
+  font-size: 14px;           /* was inherited; now smaller */
+  line-height: 1.35;
+
+  /* keep within viewport with scroll if long */
+  max-height: calc(100vh - 140px);
+  overflow-y: auto;
+}
+
+/* Title */
+#js-toc::before {
+  content: "Оглавление";
+  display: block;
+  font-size: 1.05em;         /* smaller title */
+  font-weight: 600;
+  color: #2d3748;
+  margin-bottom: 6px;        /* tighter spacing */
+}
+
+/* List layout resilient to theme overrides */
+#js-toc .js-toc-list { list-style: none; margin: 0; padding: 0; }
+#js-toc .js-toc-item { margin: 0; padding: 0; }
+#js-toc .js-toc-item.is-h3 { margin-left: 0.6em; }  /* slightly reduced indent */
+
+/* Force block links + wrapping even if theme overrides anchors */
+#js-toc a.js-toc-link {
+  display: block !important;
+  padding: 4px 0;            /* tighter row height */
+  line-height: 1.3;
+  text-decoration: none;
+  white-space: normal !important;
+  font-size: 0.95em;         /* slightly smaller than container (≈13.3px) */
+}
+#js-toc a.js-toc-link::before { content: none !important; }
+
+/* State */
+#js-toc a.js-toc-link:hover { color: #d84949; text-decoration: none; }
+#js-toc a.js-toc-link.active { font-weight: 500; }
+
+/* Responsive */
+@media (max-width: 1200px) {
+  #js-toc {
+    position: static;
+    width: auto;
+    padding: 12px 0;
+    max-height: none;        /* no fixed height when flowing in content */
+    overflow: visible;
+    font-size: 15px;         /* small bump for readability on narrower screens */
+  }
+  #js-toc a.js-toc-link { font-size: 1em; } /* match container */
+}
+</style>
+<p>&nbsp;</p>
+</div>
+    <div class="col-12">
+        <h2 class="text-center">продолжить чтение</h2>
+        <section class="col-12">
+            <div class="col-1">
+                <div class="swiper-button-prev"></div>
+            </div>
+            <div class="col-10 px-0">
+                <div class="swiper mySwiper container">
+                    <div class="swiper-wrapper content">
+                                                    <div class="swiper-slide card rounded-6">
+                                                                <img width="100%" class="lazyload card-img-top"
+                                     data-src="https://ecarstrade.com/images/car-auctions-ecarstrade-5.jpg">
+                                <div class="card-body p-2 pb-4">
+                                    <a href="/blog/real-cost-of-buying-a-car-at-auction">
+                                        <h6 class="card-title">The Real Cost of Buying a Car on a European Auction Platform</h6>
+                                    </a>
+                                </div>
+                                <p class="card-text text-muted pl-2">1 Сен 2026</p>
+                            </div>
+                                                    <div class="swiper-slide card rounded-6">
+                                                                <img width="100%" class="lazyload card-img-top"
+                                     data-src="https://ecarstrade.com/images/car-auctions-ecarstrade-5.jpg">
+                                <div class="card-body p-2 pb-4">
+                                    <a href="/blog/buying-used-vehicles-wholesale">
+                                        <h6 class="card-title">How to Start Buying Used Vehicles Wholesale</h6>
+                                    </a>
+                                </div>
+                                <p class="card-text text-muted pl-2">26 Авг 2026</p>
+                            </div>
+                                                    <div class="swiper-slide card rounded-6">
+                                                                <img width="100%" class="lazyload card-img-top"
+                                     data-src="https://ecarstrade.com/images/car-auctions-ecarstrade-5.jpg">
+                                <div class="card-body p-2 pb-4">
+                                    <a href="/blog/how-to-import-a-car-to-the-uk">
+                                        <h6 class="card-title">How to Import a Car to the UK</h6>
+                                    </a>
+                                </div>
+                                <p class="card-text text-muted pl-2">5 Авг 2026</p>
+                            </div>
+                                                    <div class="swiper-slide card rounded-6">
+                                                                <img width="100%" class="lazyload card-img-top"
+                                     data-src="https://ecarstrade.com/images/car-auctions-ecarstrade-5.jpg">
+                                <div class="card-body p-2 pb-4">
+                                    <a href="/blog/importing-used-evs-in-europe">
+                                        <h6 class="card-title">Importing Used EVs in Europe: How Costs & Process Differ from ICE Vehicles</h6>
+                                    </a>
+                                </div>
+                                <p class="card-text text-muted pl-2">26 Июл 2026</p>
+                            </div>
+                                                    <div class="swiper-slide card rounded-6">
+                                                                <img width="100%" class="lazyload card-img-top"
+                                     data-src="https://ecarstrade.com/images/car-auctions-ecarstrade-5.jpg">
+                                <div class="card-body p-2 pb-4">
+                                    <a href="/blog/how-to-spot-odometer-fraud">
+                                        <h6 class="card-title">How to Spot Odometer Fraud? A Guide for Car Dealers</h6>
+                                    </a>
+                                </div>
+                                <p class="card-text text-muted pl-2">21 Июл 2026</p>
+                            </div>
+                                                    <div class="swiper-slide card rounded-6">
+                                                                <img width="100%" class="lazyload card-img-top"
+                                     data-src="https://ecarstrade.com/images/car-auctions-ecarstrade-5.jpg">
+                                <div class="card-body p-2 pb-4">
+                                    <a href="/blog/european-used-car-market-mid-year-report-2026">
+                                        <h6 class="card-title">European Used Car Market Mid-Year Report 2026: Trends, Prices & Demand Analysis</h6>
+                                    </a>
+                                </div>
+                                <p class="card-text text-muted pl-2">30 Июн 2026</p>
+                            </div>
+                                            </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+            <div class="col-1">
+                <div class="swiper-button-next"></div>
+            </div>
+        </section>
+    </div>
+    <!-- Initialize Swiper -->
+
+<script>
+    $(document).ready(function () {
+        let swiper = new Swiper(".mySwiper", {
+            slidesPerView: 3,
+            spaceBetween: 10,
+            slidesPerGroup: 1,
+            loop: true,
+            loopFillGroupWithBlank: true,
+            pagination: {
+                el: ".swiper-pagination",
+                dynamicBullets: true,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                },
+                520: {
+                    slidesPerView: 2,
+                },
+                768: {
+                    slidesPerView: 3,
+                },
+            },
+        });
+    });
+</script>
+
+<style>
+    .site-content .swiper img {
+        height: 130px;
+        margin: 0 auto;
+        border-radius: 8px 8px 0 0;
+    }
+    .swiper-slide .card-text {
+        /*font-size: 1rem;*/
+        font-size: 0.8rem;
+        position: absolute;
+        bottom: 1%;
+    }
+    .swiper-slide {
+        height: auto;
+    }
+    .card .card-body a:hover {
+        text-decoration: none;
+    }
+
+    section {
+        font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        position: relative;
+        height: 400px;
+        max-width: 750px;
+        display: flex;
+        align-items: center;
+    }
+
+    .card {
+        position: relative;
+        background: #fff;
+        border-radius: 20px;
+        margin: 20px 0;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .card::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        border-radius: 20px 20px 0 0;
+    }
+
+    .card .card-title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
+        color: ;
+    }
+
+    .swiper-pagination{
+        position: relative;
+    }
+    .swiper-pagination-bullet {
+        background: #d84949;
+    }
+
+    .swiper-button-next:after,
+    .swiper-button-prev:after {
+        content: "\f053"; /* FontAwesome icon code for arrow-alt-circle-right */
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        font-size: 30px;
+        color: #d84949;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-button-next:after {
+        content: "\f054"; /* FontAwesome icon code for arrow-alt-circle-left */
+    }
+
+    .swiper-button-next, .swiper-button-prev {
+        opacity: 0.7;
+        transition: all 0.3s ease;
+    }
+    .swiper-button-next:hover, .swiper-button-prev:hover {
+        opacity: 1;
+    }
+    @media only screen and (min-width: 521px) and (max-width: 765px) {
+        .swiper-pagination-bullets.swiper-pagination-horizontal{
+            bottom: -20px;
+        }
+        .site-content .swiper img {
+            height: auto;
+        }
+    }
+    @media only screen and (max-width: 520px) {
+        .site-content .swiper img {
+            height: auto;
+        }
+        .swiper-button-prev {
+            padding-right: 20px;
+        }
+        .swiper-button-next {
+            padding-left: 20px;
+        }
+    }
+</style>
+
+
+                    <a href="#loader" class="ajax-loader">
+                        <div style="display: none;">
+                            <div id="loader" >
+                                <img  style=" margin-left:40px; margin-right: 40px;" src="/static/img/legacy/icons/ajax-loader.gif"/>
+                                <br/>
+                                <span style=" margin-left:45px; margin-right: 40px; padding-top: 5px;">Загрузка</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            </div>
+
+            <footer id="main_footer">
+            <div id="footer_columns" class="clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm">
+                            <div class="grid_3">
+<p class="footer_title">Ecarstrade</p>
+
+<ul>
+	<li><a href="/">Главная</a></li>
+	<li><a href="/terms-and-conditions">Общие положения и условия</a></li>
+	<li><a href="/privacy-and-cookies-policy">Политика конфиденциальности</a></li>
+	<li><a href="/quality-compliance">Гарантии качества</a></li>
+</ul>
+</div><div class="grid_3" style="margin-top:2em;">
+<p><strong>Популярные объявления</strong></p>
+
+<ul>
+	<li><a href="/online-car-auctions-belgium">Аукционы подержанных автомобилей из Бельгии</a></li>
+	<li><a href="/online-car-auctions-germany">Аукционы подержанных автомобилей из Германии</a></li>
+	<li><a href="/online-car-auctions-france">Аукционы подержанных автомобилей из Франции</a></li>
+	<li><a href="/online-car-auctions-netherlands">Аукционы подержанных автомобилей из Нидерландов</a></li>
+</ul>
+</div>                        </div>
+                        <div class="col-sm">
+                            <div class="grid_3 notranslate" translate="no">
+<p class="footer_title">О нас</p>
+
+<ul>
+	<li><a href="/about">О нас</a></li>
+	<li><a href="/howitworks">Как работает eCarsTrade</a></li>
+	<li><a href="/questions">Часто задаваемые вопросы</a></li>
+	<li><a href="/join-our-team">В нашу команду</a></li>
+	<li><a href="/blog">Блог</a></li>
+	<li><a href="/discover-the-platform">Откройте для себя платформу</a></li>
+</ul>
+</div>                        </div>
+                        <div class="col-sm">
+                            <div class="grid_3">
+<p class="footer_title">Полезная информация</p>
+
+<ul>
+	<li><a href="/selection">Каталог автомобилей</a></li>
+	<li><a href="/extra-services">Дополнительные услуги</a></li>
+	<li><a href="/acquiring-vehicles">Способы приобретения</a></li>
+	<li><a href="/delivery">Служба доставки eCarsTrade</a></li>
+	<li><a href="/costs">Расходы</a></li>
+	<li><a href="/help/user-status">Статусы пользователей</a></li>
+	<li><a href="/suppliers">Стать поставщиком e<font color="#d84849">Cars</font>Trade</a></li>
+	<li><a href="/wiki/how-battery-lease-works" target="_blank">Аренда аккумулятора</a></li>
+	<li><a href="/payment-security" target="_blank">Безопасность платежей</a></li>
+</ul>
+</div>
+<style type="text/css">$user_id: 5820;
+li .refprogram {
+  @if $user_id > 0 {
+    display: block;
+  } @else {
+    display: none;
+  }
+}
+</style>                        </div>
+                        <div class="col-sm">
+                            <div class="grid_3">
+<div><a href="https://apps.apple.com/us/app/ecarstrade-used-car-auctions/id6541758066?itscg=30200&amp;itsct=apps_box_badge&amp;mttnsubad=6541758066" style="display: inline-block;"><img alt="Download on the App Store" rel="nofollow" src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ru-ru?releaseDate=1726531200" style="width: 150px; vertical-align: middle; object-fit: contain;" /></a></div>
+<a href="https://play.google.com/store/apps/details?id=com.ecarstrade.eCarsTrade" target="_blank"><img alt="Get it on Google Play" class="google-play-badge" src="https://play.google.com/intl/ru/badges/static/images/badges/ru_badge_web_generic.png" style="max-width: 170px; position: relative;left: 0;" /> </a>
+
+<div style="margin-top:1rem;"><a href="https://www.trustprofile.com/fr/webshop/eCarsTrade---Online-car-auctions_4125330" style="display: inline-block;"><img alt="Download on the App Store" rel="nofollow" src="https://becom.digital/app/uploads/2023/10/Logo_Trust_ecommerce_europe.png" style="width: 70px; vertical-align: top; object-fit: contain;margin-right:0.5rem;" /></a> <a href="https://www.trustprofile.com/fr/webshop/eCarsTrade---Online-car-auctions_4125330" style="display: inline-block;"><img alt="Download on the App Store" rel="nofollow" src="https://becom.digital/app/uploads/2023/10/Becom_badge_green_extended.png" style="width: 70px; vertical-align: top; object-fit: contain;" /></a></div>
+<a href="/contact" style="display:block;margin:1rem 0;color:rgb(98, 98, 98);">Контакт</a>
+
+<p><strong>Tel.:</strong> <a href="tel:+32023422222" style="color:rgb(98, 98, 98);">+32 (0)2 342 22&nbsp;22&nbsp;</a></p>
+
+<p><strong>Email:</strong> <a href="/cdn-cgi/l/email-protection#94fdfaf2fbd4f1d7f5e6e7c0e6f5f0f1baf7fbf9" style="color:rgb(98, 98, 98);"><span class="__cf_email__" data-cfemail="5a33343c351a3f193b28290e283b3e3f74393537">[email&#160;protected]</span></a></p>
+
+<div class="follow-container" style="display:block;white-space: nowrap;vertical-align: bottom;width: 100px;height: 25px;">
+<div style="display:block;"><a href="https://www.linkedin.com/company/ecarstrade/" rel="nofollow" target="_blank"><svg class="logo" preserveaspectratio="xMinYMin meet" style="width: 26px;height: 22px;vertical-align: middle;border-radius: 3px 0 0 3px;background: #006097;" viewbox="-12 -10 60 60" x="0" y="0"> <rect class="fill-white" height="28" style="fill: #ffffff;" width="28" x="5" y="5"></rect> <g class="fill-blue" style="fill: #006097;"> <path d="M34.5,3H5.6C4.2,3,3,4.1,3,5.4v29.1C3,35.9,4.2,37,5.6,37h29C35.9,37,37,35.9,37,34.6V5.4C37,4.1,35.9,3,34.5,3zM13,32H8V16h5V32zM10.5,13.9c-1.9,0-3.4-1.5-3.4-3.4c0-1.9,1.5-3.4,3.4-3.4s3.4,1.5,3.4,3.4C13.9,12.4,12.4,13.9,10.5,13.9zM32,32h-5v-7.9c0-2.4-1-4-2.6-4c-2.3,0-3.4,2.1-3.4,4.6V32h-5V16h5v2.1c0.8-1.4,2.2-2.5,4.7-2.5c4.7,0,6.3,1.7,6.3,5.4V32z"></path> </g> </svg></a><button class="following-btn--vertical" style="border: 1px solid rgba(0,0,0,0.15);background: #F3F6F8;color: rgba(0,0,0,0.6);padding: 10px 8px;margin-left: -3px;height: 20px;width: calc(100% - 23px);line-height: 0;vertical-align: middle;font-size: 14px;cursor: pointer;outline: 0;
+border-radius: 0 3px 3px 0;text-align:center;">Follow</button></div>
+</div>
+<img alt="Stripe" src="/images/stripe/powered_by_stripe.png" style="width: 122px; height: 26px;display:block;margin-top:0.5rem;" />
+<div style="margin-top:2rem;"><a href="/sitemap" style="color: #626262;">Карта сайта</a></div>
+</div>                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copy">
+                &copy; 2013-2026 eCarsTrade
+            </div>
+        </footer>
+    
+    <div class="page-loader">
+        <img src="/static/js/legacy/lightbox/loading.gif" style="position:absolute; margin:auto; top:0; left:0; right:0; bottom:0; width: 20px;" width="50" alt="Loading">
+    </div>
+</div>
+
+<div class="modal fade" id="site-modal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="fa-3x p-4 text-center"><i class="fas fa-spinner fa-pulse"></i></div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="site-xl-modal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="fa-3x p-4 text-center"><i class="fas fa-spinner fa-pulse"></i></div>
+        </div>
+    </div>
+</div>
+
+<div id="confirmModal" class="modal fade" role="dialog" aria-labelledby="dataConfirmLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body"></div>
+            <div class="modal-footer">
+                <button class="btn btn-no" data-dismiss="modal" aria-hidden="true">Cancel</button>
+                <a class="btn btn-primary btn-yes" href="#">OK</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>window.deferPush(function (){
+    $(function () {
+        $.fn.modal.Constructor.prototype.enforceFocus = function() {};
+        $('#site-modal').on('show.bs.modal', function (event) {
+            const button = $(event.relatedTarget);
+            const href = button.data('href')??event.relatedTarget?.href??$(this).data('target')??false;
+            if (href) {
+                $(this).removeData('target');
+                $.get(href, function (data) {
+                    $('#site-modal').find('.modal-content').html(data);
+                });
+            }
+        }).on('hidden.bs.modal', function (event) {
+            $('#site-modal').find('.modal-content').html('<div class="fa-3x p-4 text-center"><i class="fas fa-spinner fa-pulse"></i></div>');
+        });
+
+        $('#site-xl-modal').on('show.bs.modal', function (event) {
+            const button = $(event.relatedTarget);
+            const href = button.data('href')??event.relatedTarget?.href??$(this).data('target')??false;
+            if (href) {
+                $(this).removeData('target');
+                $.get(href, function (data) {
+                    $('#site-xl-modal').find('.modal-content').html(data);
+                });
+            }
+        }).on('hidden.bs.modal', function (event) {
+            $('#site-xl-modal').find('.modal-content').html('<div class="fa-3x p-4 text-center"><i class="fas fa-spinner fa-pulse"></i></div>');
+        });
+    });
+
+    deferPush(function () {
+        const initTooltips = () => {
+            $("[data-toggle='tooltip']").tooltip();
+            $("[data-toggle='tooltip-sub-co2']").tooltip({
+                trigger: 'click'
+            });
+        };
+        if(!window.isDeiceMobile) {
+            initTooltips();
+        } else {
+            deferPush(initTooltips);
+        }
+        $("select.select2").select2({width: "100%"});
+        $('#navbarGroup a.navbar-toggler').on('click', function() {
+            $('#navbarGroup a.navbar-toggler').removeClass('active');
+            $(this).addClass('active');
+        });
+    });
+});</script>
+
+
+                    <!-- Google Tag Manager  -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-MTRH7V3');</script>
+            <!-- Google Optimize  -->
+                <!-- GA4  -->
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+                            gtag('config', 'G-0239LS8MTR');
+                    </script>
+                    <script>
+                !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];analytics.factory=function(e){return function(){var t=Array.prototype.slice.call(arguments);t.unshift(e);analytics.push(t);return analytics}};for(var e=0;e<analytics.methods.length;e++){var key=analytics.methods[e];analytics[key]=analytics.factory(key)}analytics.load=function(key,e){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.src="https://cdp-eu.customer.io/v1/analytics-js/snippet/" + key + "/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);analytics._writeKey=key;analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.15.3";
+                    analytics.load("8b2a48ee17fd48131302");
+                    analytics.page();
+                }}();
+            </script>
+        
+        
+        <script>window.nonBlockRun();</script>
+        <div id="css-liks"></div>
+        <link  href='/static/minified/main-page/main-page-bottom-styles.min.css?v=1bacf384' rel='stylesheet' type='text/css' />
+
+                    <script
+                type="text/plain"
+                data-category="analytics"
+                id="hs-script-loader" async defer src="//js.hs-scripts.com/5441429.js"></script>
+        
+        <script type='text/javascript'  src='/static/minified/main-page/main-page-bottom-js.min.js?v=1bacf384'></script>
+<script type='text/javascript'  src='/static/js/legacy/subfolder-lang.js?v=1bacf384'></script>
+<script type='text/javascript'  src='/modules/mod_auth/assets/js/login.js?v=1bacf384'></script>
+<script type='text/javascript'  src='/static/js/vendor/lazysizes.min.js?v=1bacf384'></script>
+<script type='text/javascript'  src='/static/js/vendor/swiper/swiper-bundle.min.js?v=1bacf384'></script>
+<script type='text/javascript'  src='/modules/mod_menu/assets/js/main_menu.js?v=1bacf384'></script>
+<script type='text/javascript'  src='/static/js/notifications-ws.js?v=1bacf384'></script>
+<script type='text/javascript'>
+window.dataLayer=window.dataLayer?window.dataLayer:[]; window.dataLayer.push({'platform':window.platformType||'browser','user id':'0','event timestamp':'1792038802','chatbaseUserHash':'','url':'/blog/how-to-take-car-photos-for-dealership','eventName':'content - read'});gtag('event', 'page_view', {'user id':'0','event timestamp':'1792038802','url':'/blog/how-to-take-car-photos-for-dealership','eventName':'content - read'});
+</script>
+        <script>document.addEventListener('DOMContentLoaded', function(){window.deferRun()})</script>
+        <script async defer src="https://www.googletagmanager.com/gtag/js?id=G-0239LS8MTR"></script>
+
+                    <script async>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-73443533-1', 'auto');
+                ga('send', 'pageview');
+            </script>
+
+            <!-- Google Tag Manager (noscript) -->
+            <noscript>
+                <iframe
+                    src="https://www.googletagmanager.com/ns.html?id=GTM-MTRH7V3"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            </noscript>
+        
+                    <script async
+                    data-api-host="https://cdn.growthbook.io"
+                    data-client-key="sdk-2KorM4bdED11cDyt"
+                    src='https://cdn.jsdelivr.net/npm/@growthbook/growthbook/dist/bundles/auto.min.js'>
+            </script>
+            <script>
+                window.growthbook_config = window.growthbook_config || {};
+                window.growthbook_config.attributes = {
+                    user_id: "0",
+                    company_id: "0",
+                    vat_valid: "",
+                    company_type: "",
+                    business_type: "",
+                    analytics_id: "",
+                    country: "CA",
+                };
+
+                window.growthbook_config.navigateDelay = 300
+                window.growthbook_config.antiFlicker = true
+                window.growthbook_config.antiFlickerTimeout = 800
+
+                document.dispatchEvent(new CustomEvent("growthbookrefresh"));
+
+            </script>
+                    
+        <div id="modal-wrap"></div>
+        <div id="modal-loader" style="display: none" >
+            <div class="modal-loader-container d-flex justify-content-center align-items-center">
+                <div class="spinner-border" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sentry START -->
+        <script  src="https://js.sentry-cdn.com/dc9b6542d332772384c439d48319a4f0.min.js"  crossorigin="anonymous"></script>
+        <script>
+            Sentry.onLoad(function() {
+                Sentry.init({
+                    dsn: "https://dc9b6542d332772384c439d48319a4f0@o4505759910330368.ingest.sentry.io/4505958688751616",
+                    sampleRate: 1,
+                    profilesSampleRate: 0,
+                    tracesSampleRate: 0,
+                    replaysSessionSampleRate: 0,
+                    replaysOnErrorSampleRate: 0,
+                    environment: "PROD3",
+                    release: "1bacf384be954b711944d85636621bd9bd9b17d9" || undefined,
+                    ignoreErrors: ["fb_xd_fragment", /^TypeError: Failed to fetch$/],
+                });
+            });
+        </script>
+        <!-- Sentry END -->
+    </body>
+</html>

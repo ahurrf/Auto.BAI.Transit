@@ -1,0 +1,1605 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <title>Как правильно фотографировать авто для&nbsp;объявлений &#8212; Kolesa.kz || Почитать</title>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://kolesa.kz/content/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ce_responsive-css'  href='https://kolesa.kz/content/html/plugins/simple-embed-code/css/video-container.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kolesa-content-style-css'  href='https://kolesa.kz/content/html/themes/kolesa-content/style.css?ver=23.6.30' type='text/css' media='all' />
+<script type='text/javascript' src='https://kolesa.kz/content/html/themes/kolesa-content/js/jquery-3.6.0.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var template_directory_uri = {"uri":"https:\/\/kolesa.kz\/content\/html\/themes\/kolesa-content"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kolesa.kz/content/html/themes/kolesa-content/js/functions.js?ver=23.7.3'></script>
+<script type='text/javascript' src='https://kolesa.kz/content/html/themes/kolesa-content/js/embed.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+var data = {"routeName":"single-post","rumEndpoint":"https:\/\/kolesa.kz\/ms\/rum\/v1\/send"};
+</script>
+<link rel='prev' title='Разводы при проверке выхлопа бензиновых автомобилей' href='/content/articles/razvody-pri-proverke-vyhlopa-benzinovyh-avtomobilej/' />
+<link rel='next' title='Как правильно фотографировать авто для объявлений' href='/content/articles-archive/kak-pravilno-fotografirovat-avto-dlya-obyavleniy/' />
+<link rel="canonical" href="/content/articles/kak-pravilno-fotografirovat-avto-dlya-obyavlenij/" />
+<link rel="alternate" type="application/json+oembed" href="https://kolesa.kz/content/wp-json/oembed/1.0/embed?url=%2Fcontent%2Farticles%2Fkak-pravilno-fotografirovat-avto-dlya-obyavlenij%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://kolesa.kz/content/wp-json/oembed/1.0/embed?url=%2Fcontent%2Farticles%2Fkak-pravilno-fotografirovat-avto-dlya-obyavlenij%2F&#038;format=xml" />
+    <link rel="icon" href="https://kolesa.kz/favicon.ico" sizes="any">
+    <link rel="icon" href="https://kolesa.kz/icon.svg" type="image/svg+xml">
+    <link rel="manifest" href="https://kolesa.kz/manifest.webmanifest">
+    <script src="https://kolesa.kz/content/html/themes/kolesa-content/static/dist/main-performance.umd.cjs" async></script>
+    <meta name="apple-mobile-web-app-title" content="Kolesa.kz">
+    <meta name="application-name" content="Kolesa.kz">
+    <meta name="theme-color" content="#2a81dd">
+        
+    <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+    <script type='text/javascript'>
+        window.googletag = window.googletag || { cmd: [] };
+
+        window.googletag.cmd.push(function () {
+            window.googletag.pubads().collapseEmptyDivs();
+            window.googletag.enableServices();
+        });
+    </script>
+
+    
+<script>
+    window.__initialReferrer = document.referrer || '';
+</script>
+
+<!-- Задаем параметры website для digitalData -->
+<script>
+    window.digitalData = {};
+    window.digitalData.website = {
+        'type' : 'desktop',
+        'environment' : 'production'
+    }
+</script>
+
+<!-- Панда аналитика -->
+
+<script type="text/javascript">
+    const Environments = {
+        PROD: 'production',
+        DEV: 'development'
+    }
+    const ANONYMOUS_ID_COOKIE = 'kolesa_anonymous_id';
+    const TEST_ANONYMOUS_ID_COOKIE = 'test_anonymous_id';
+
+    const environment = 'production';
+    const domainCookie = '.kolesa.kz';
+    const platform = 'desktop';
+    const pandaTopic = 'production' === Environments.PROD ? 'kolesa-frontend-user-events-prod' : 'kolesa-frontend-user-events-test';
+    let hosts = [];
+    let clientData = {};
+
+    /**
+     * Получение информации о пользователе.
+     */
+    async function fetchClientData() {
+        try {
+            const clientDataUrl = "https:\/\/kolesa.kz\/content\/wp-json\/v1\/getClientData";
+
+            const response = await fetch(clientDataUrl);
+
+            if (response.ok) {
+                return await response.json();
+            }
+        } catch (error) {
+            console.error('Ошибка при получении данных аналитики:', error);
+        }
+
+        return {};
+    }
+    /**
+     * Доставать значение куки по ключу
+     *
+     * @param a
+     * @returns {*}
+     */
+    const getCookieValue = (a) => {
+        const b = document.cookie.match(`(^|;)\\s*${a}\\s*=\\s*([^;]+)`);
+
+        return b ? b.pop() : null;
+    };
+
+    /**
+     * Функция проставления куки анонимного пользователя
+     *
+     * 1. Если есть kolesa_anonymous_id - использовать её
+     * 2. Если нет, но есть test_anonymous_id - копировать её в kolesa_anonymous_id
+     * 3. Если обе отсутствуют - сгенерировать новый UUID
+     */
+    function setUserAnonymousId() {
+        const anonymousId = getCookieValue(ANONYMOUS_ID_COOKIE);
+        const testAnonymousId = getCookieValue(TEST_ANONYMOUS_ID_COOKIE);
+
+        if (anonymousId) return;
+
+        if (testAnonymousId) {
+            document.cookie = `${ANONYMOUS_ID_COOKIE}=${testAnonymousId}; domain=${domainCookie}; path=/; max-age=31536000; secure; samesite=lax`;
+
+            return;
+        }
+
+        const generatedId = generateUUID();
+        document.cookie = `${ANONYMOUS_ID_COOKIE}=${generatedId}; domain=${domainCookie}; path=/; max-age=31536000; secure; samesite=lax`;
+    }
+
+    /**
+     * Получение digitalDataLayer данных
+     */
+    function getDDLData() {
+        const digitalData = window.digitalData ?? {};
+
+        const {
+            page = {},
+            user = {},
+            product = {},
+            context = {},
+            listing = {},
+        } = digitalData;
+
+        return {
+            page,
+            user,
+            product,
+            context,
+            listing,
+        };
+    }
+
+    /**
+     * Фильтрует пустые значения в объекте
+     * Пустыми значениями считаются [undefined|null|'']
+     *
+     * @param obj - фильтруемый объект
+     */
+    const filterEmptyProperties = (obj) => Object.fromEntries(
+        Object.entries(obj).filter(([_, value]) => (value !== null && value !== undefined && value !== '')),
+    );
+
+    /**
+     * Cплющивает объект до одновложенного
+     *
+     * @param object - объект
+     * @param path - путь до свойства
+     * @param separator - разделитель вложенности ключа
+     */
+    const flatten = (object, path = '', separator = '.') => (
+        Object.entries(object).reduce((flat, [key, value]) => {
+            const newKey = path ? `${path}${separator}${key}` : key;
+
+            if (
+                value
+                && typeof value === 'object'
+                && !(value instanceof Date || value instanceof RegExp || Array.isArray(value))
+            ) {
+                return { ...flat, ...flatten(value, newKey, separator) };
+            }
+
+            return { ...flat, [newKey]: value };
+        }, {}));
+
+    /**
+     * Строку в формате camelCase переводи в snake_case
+     *
+     * @param str - camelCase строка
+     */
+    const camelToSnakeCase = (str) => str.replace(/[A-Z]/g, letter => `_${letter.toLowerCase()}`);
+
+    /**
+     * Переводит первую букву в lower case
+     *
+     * @param str - строка
+     */
+    const lowerize = (str) => str.charAt(0).toLowerCase() + str.slice(1);
+
+    /**
+     * Нормализация ключа
+     *
+     * Вырезает все специальные символы кроме _(underscore)
+     * Вырезает все пробелы
+     * Первая буква в lower case
+     * Заменяет camelCase на snake_case
+     *
+     * @param str - строка
+     */
+    const normalizeKey = (str) => camelToSnakeCase(lowerize(str.replace(/[^a-zA-Z0-9_$]/g, '')));
+
+    /**
+     *
+     * Нормализация значения
+     *
+     * @param value - значение
+     */
+    const normalizeValue = (value) => {
+        if (
+            typeof value === 'string'
+            || typeof value === 'number'
+            || typeof value === 'boolean'
+            || value === null
+        ) {
+            return value;
+        }
+
+        if (value instanceof Date || value instanceof RegExp) {
+            return value.toString();
+        }
+
+        return JSON.stringify(value);
+    };
+
+    /**
+     * Подготавливает данные события для отправки
+     *
+     * @param data - данные события
+     * @param nestedSeparator - разделитель для вложенных объектов
+     */
+    const normalizeParams = (
+        data,
+        nestedSeparator = '_',
+    ) => Object.entries(
+        filterEmptyProperties(flatten(data, '', nestedSeparator)),
+    ).reduce((params, entry) => {
+        const [key, value] = entry;
+        const normalizedValue = normalizeValue(value);
+
+        params[normalizeKey(key)] = typeof value === 'undefined' || value === null
+            ? ''
+            : normalizedValue;
+
+        return params;
+    }, {});
+
+    function generateUUID() {
+        if (typeof crypto?.randomUUID === 'function') {
+            return crypto.randomUUID();
+        }
+
+        const bytes = crypto.getRandomValues(new Uint8Array(16));
+        bytes[6] = (bytes[6] & 0x0f) | 0x40; // version 4
+        bytes[8] = (bytes[8] & 0x3f) | 0x80; // variant 10
+
+        const toHex = (b) => b.toString(16).padStart(2, '0');
+
+        return [
+            toHex(bytes[0]), toHex(bytes[1]), toHex(bytes[2]), toHex(bytes[3]),
+            '-',
+            toHex(bytes[4]), toHex(bytes[5]),
+            '-',
+            toHex(bytes[6]), toHex(bytes[7]),
+            '-',
+            toHex(bytes[8]), toHex(bytes[9]),
+            '-',
+            toHex(bytes[10]), toHex(bytes[11]), toHex(bytes[12]),
+            toHex(bytes[13]), toHex(bytes[14]), toHex(bytes[15])
+        ].join('');
+    }
+
+    /**
+     * Подготовка события для отправки
+     *
+     * @param event - событие
+     */
+    function prepareEvent(event) {
+        const ddl = getDDLData();
+        const eventData = event.params;
+
+        const params = {
+            sentAt: new Date().toISOString(),
+            page_location: window.location.href,
+            page_referrer: document.referrer || window.__initialReferrer || '',
+            page_pathname: window.location.pathname,
+            context_platform: platform,
+            context_environment: environment,
+            context_ip: clientData.ip,
+            context_city: clientData.city,
+            context_country: clientData.country,
+            hit_id: generateUUID(),
+            ...(eventData && { ['event']: eventData }),
+            ...(ddl && { ddl }),
+        }
+
+        return {
+            name: event.name,
+            ...normalizeParams(params),
+        };
+    }
+
+    /**
+     * Запрашивает список доступных хостов.
+     */
+    async function fetchHosts() {
+        try {
+            if (environment === Environments.PROD) {
+                const response = await fetch('https://app.kolesa.kz/events-v2.json');
+
+                if (response.ok) {
+                    return await response.json();
+                }
+            }
+
+            const testCdn = await fetch('https://events-proxy-testing.kolesa-team.org/events.json');
+
+            if (testCdn.ok) {
+                return await testCdn.json();
+            }
+        } catch (error) {
+            console.error('Ошибка получения хостов для панды', error);
+        }
+
+        return [];
+    }
+
+    /**
+     * Запрос на отправку события в панду
+     */
+    async function send(host, data) {
+        return fetch(`${host}/topics/${pandaTopic}`, {
+            method:  'POST',
+            headers: {
+                'Content-Type': 'application/vnd.kafka.json.v2+json',
+            },
+            body: JSON.stringify({
+                records: [
+                    {
+                        value: {
+                            type: 'web.analytics',
+                            logs: [{ ...data }],
+                        },
+                    },
+                ],
+            }),
+        });
+    }
+
+    /**
+     * Основной метод для отправки события на доступные хосты.
+     */
+    async function processEvent(data) {
+        data.params.test_anonymous_id = getCookieValue('kolesa_anonymous_id') || getCookieValue('test_anonymous_id') || 'Cookie id not found';
+        const params = prepareEvent(data);
+
+        let success = false;
+
+        for (let i = 0; i < hosts.length && !success; i++) {
+            const host = hosts[i];
+
+            try {
+                const response = await send(host, params);
+                success = response.ok;
+
+                if (!success && (i !== hosts.length)) {
+                    console.warn(`Не смог отправить в панду ${host}. Пробую следующий хост.`);
+                }
+            } catch (error) {
+                console.error(`Ошибка при отправке на хост ${host}:`, error);
+            }
+        }
+
+        if (!success) {
+            console.error('Не удалось отправить событие ни на один хост.');
+        }
+    }
+
+    window.addEventListener('load', async () => {
+        setUserAnonymousId();
+
+        const MAX_WAIT_TIME = 2000;
+        const CHECK_INTERVAL = 500;
+        const startTime = Date.now();
+
+        clientData = await fetchClientData();
+
+        if (hosts.length === 0) {
+            hosts = await fetchHosts();
+
+            if (hosts.length === 0) {
+                console.error('Хостов доступных нет');
+
+                return;
+            }
+        }
+
+        const intervalId = setInterval(() => {
+            if (window.digitalData) {
+                clearInterval(intervalId);
+
+                processEvent({ name: 'page_show', params: {} });
+            } else if (Date.now() - startTime > MAX_WAIT_TIME) {
+                clearInterval(intervalId);
+
+                console.warn('digitalData не инициализирован');
+            }
+        }, CHECK_INTERVAL);
+    });
+
+    document.addEventListener('DOMContentLoaded', () => {
+        document.addEventListener('click', e => {
+            const link = e.target.closest('[data-panda-event]');
+            if (!link) return;
+
+            const eventName = link.getAttribute('data-panda-event');
+            processEvent({ name: eventName, params: {} });
+        });
+    });
+</script>
+<!-- //SegmentStream snippet -->
+
+    <!-- google analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-20095517-1', 'kolesa.kz');
+        var OpenStatParser = {
+            _params: {},
+            _parsed: false,
+            _decode64: function(data) {
+                if (typeof window['atob'] === 'function') {
+                    return atob(data);
+                }
+
+                var b64 = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+                var o1, o2, o3, h1, h2, h3, h4, bits, i = 0,
+                    ac = 0,
+                    dec = "",
+                    tmp_arr = [];
+
+                if (!data) {
+                    return data;
+                }
+
+                data += '';
+
+                do {
+                    h1 = b64.indexOf(data.charAt(i++));
+                    h2 = b64.indexOf(data.charAt(i++));
+                    h3 = b64.indexOf(data.charAt(i++));
+                    h4 = b64.indexOf(data.charAt(i++));
+
+                    bits = h1 << 18 | h2 << 12 | h3 << 6 | h4;
+
+                    o1 = bits >> 16 & 0xff;
+                    o2 = bits >> 8 & 0xff;
+                    o3 = bits & 0xff;
+
+                    if (h3 == 64) {
+                        tmp_arr[ac++] = String.fromCharCode(o1);
+                    } else if (h4 == 64) {
+                        tmp_arr[ac++] = String.fromCharCode(o1, o2);
+                    } else {
+                        tmp_arr[ac++] = String.fromCharCode(o1, o2, o3);
+                    }
+                } while (i < data.length);
+
+                dec = tmp_arr.join('');
+
+                return dec;
+            },
+            _parse: function() {
+                var prmstr = window.location.search.substr(1);
+                var prmarr = prmstr.split('&');
+                this._params = {};
+
+                for (var i = 0; i < prmarr.length; i++) {
+                    var tmparr = prmarr[i].split('=');
+                    this._params[tmparr[0]] = tmparr[1];
+                }
+
+                this._parsed = true;
+            },
+            hasMarker: function() {
+                if (!this._parsed) {
+                    this._parse();
+                }
+                return (typeof this._params['_openstat'] !== 'undefined') ? true : false;
+            },
+            buildCampaignParams: function() {
+                if (!this.hasMarker()) {
+                    return false;
+                }
+                var openstat = this._decode64(this._params['_openstat']);
+                var statarr = openstat.split(';');
+                utmcampaign = statarr[3];
+                utmsource = statarr[0];
+                utmcontent = statarr[2];
+            }
+        }
+        if (OpenStatParser.hasMarker()) {
+            var campaignParams = OpenStatParser.buildCampaignParams();
+            if (campaignParams !== false) {
+                ga('set', {'campaignName': utmcampaign, 'campaignSource': utmsource, 'campaignMedium': 'cpc', 'campaignContent': utmcontent});
+            }
+        }
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+    </script>
+    <!-- google analytics -->
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        var yaParams = {region : "Все регионы", cat : "content"};
+    </script>
+    <script type="text/javascript">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter10095472 = new Ya.Metrika({id:10095472,
+                        clickmap:true,
+                        accurateTrackBounce:true,
+                        webvisor:true,
+                        ut:"noindex",params:window.yaParams||{ }});
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="//mc.yandex.ru/watch/10095472?ut=noindex" style="display: none" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    </head>
+
+<body class="post-template-default single single-post postid-43052 single-format-standard group-blog">
+<div id="page" class="site">
+    <header>
+        <section id="switchSite">
+            <div class="logo"><a href="/">
+                    <div>kolesa</div>
+                </a>
+            </div>
+
+            <div id="mob-lang" class="locale">
+                <ul class="locale__list">
+                    <li class="locale__item" ><a class="locale__link" href="https://kolesa.kz/content/kz/">Қаз</a></li><li class="locale__item"><span class="locale__link locale__link--active">Рус</span></li>                </ul>
+            </div>
+
+            <div class="kolesa-top-header-overlay">
+                <div class="kolesa-top-header kolesa-top-header-md">
+                    <div class="kolesa-top-header-left">
+                        <ul class="corp-products">
+                            <li class="corp-products__item tooltip-container">
+                                <span class="corp-products__link corp-products__link--active">Kolesa.kz</span>
+                                <div class="tooltip corp-products__tooltip">
+                                    Автомобили                                </div>
+                            </li>
+                            <li class="corp-products__item tooltip-container">
+                                <a class="corp-products__link" href="https://krisha.kz">Krisha.kz</a>
+                                <div class="tooltip corp-products__tooltip">
+                                    Недвижимость                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                                            <div class="kolesa-top-header-right">
+                            <div class="user-action-links">
+                                <a href="https://kolesa.kz/signin" class="cabinet-link register-link">Регистрация</a>
+
+                                 <a href="https://kolesa.kz/cabinet" class="cabinet-link login margin-left-key">
+                                    Личный кабинет                                 </a>
+                            </div>
+
+                            <div id="lang" class="locale">
+                                <ul class="locale__list">
+                                    <li class="locale__item" ><a class="locale__link" href="https://kolesa.kz/content/kz/">Қаз</a></li><li class="locale__item"><span class="locale__link locale__link--active">Рус</span></li>                                </ul>
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </section>
+        <div class="wrapper navigation-wrapper">
+            <div class="main-navigator">
+                <a href="/" class="header-logo-nav"></a>
+                <div class="navigator-links">
+                    <a href="https://kolesa.kz/">Машины</a>
+                    <a href="https://kolesa.kz/zapchasti">Запчасти</a>
+                    <a href="https://kolesa.kz/uslugi">Ремонт и услуги</a>
+                    <a href="https://kolesa.kz/spectehnika">Коммерческие</a>
+                    <a href="https://kolesa.kz/content" class="active">Почитать</a>
+                    <a href="https://kolesa.kz/content/kolesa-gid" class="kolesa-gid" style="white-space: nowrap;">Колёса Гид</a>
+                </div>
+                <a href="https://kolesa.kz/a/new" class="add-adv-btn">
+                    Подать объявление                </a>
+            </div>
+            <section id="main-navigation" class="main-navigation">
+                <div class="icon-menu" id="touch-menu">
+                    <span class="divide"></span>
+                    <span class="divide"></span>
+                    <span class="divide"></span>
+                </div>
+                <nav role="navigation">
+                    <div>
+                        <div class="menu-pochitat-container"><ul id="primary-menu" class="menu"><li id="menu-item-1692" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1692"><a href="/content/./news/">Новости</a></li>
+<li id="menu-item-1693" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1693"><a href="/content/./articles/">Статьи и истории</a></li>
+<li id="menu-item-1694" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1694"><a href="/content/./test-drive/">Тест-драйвы и отзывы</a></li>
+<li id="menu-item-1691" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1691"><a href="/content/./video/">Видео</a></li>
+</ul></div>                        
+<form action="/content/" class="searchForm hidden">
+    <span class="">
+        <input type="text" name="s" id="searchText">
+        <button class="searchSubmit"></button>
+        <button class="searchHide"></button>
+    </span>
+</form>
+
+<button class="searchShow"></button>
+
+<script>
+    $(".searchShow").click(function () {
+        $(".searchForm").removeClass('hidden');
+        $(".searchShow").addClass('hidden');
+        $('.searchForm #searchText').focus();
+        return false;
+    });
+    $(".searchHide").click(function () {
+        $(".searchForm").addClass('hidden');
+        $(".searchShow").removeClass('hidden');
+
+        return false;
+    });
+</script>                    </div>
+                    <div id="add-buttons" class="hidden">
+                        <div id="nav-searchform"><form role="search" method="get" id="searchform" action="https://kolesa.kz/content/" >
+	<input type="text" value="" name="s" id="s" />
+    <button type="submit" id="searchbutton" value="">Найти</button>
+	<button type="button" id="searchclose" value=""></button>
+</form></div>
+                        <div class="adv">
+                          <span class="icon-ad"></span>
+                          <a href="https://kolesa.kz/a/new">
+                              Объявления                          </a>
+                        </div>
+                        <button type="button" id="close-btn" value="Закрыть"><span></span>Закрыть</button>
+                    </div>
+                </nav>
+            </section>
+        </div>
+    </header>
+    <div id="content" class="site-content">
+  <div id="primary" class="content-area">
+    <main id="main" class="site-main" role="main">
+        
+<article id="post-43052" class="post-43052 post type-post status-publish format-standard has-post-thumbnail hentry category-articles tag-prodazha-avto tag-sovety-kolesa-kz">
+    <div class="wrapper">
+	<header class="entry-header">
+
+        <div class="breadcrumbs">
+            <span>
+                <a href="https://kolesa.kz/content">Главная</a>
+            </span>
+            <span class="next-arrow">&rarr;</span>
+            <span><a href="/content/./articles/" rel="category tag">Статьи и истории</a></span>
+            <span class="next-arrow">&rarr;</span>
+            <span class="post-title">Как правильно фотографировать авто для&nbsp;объявлений</span>
+        </div>
+
+		<img loading="lazy" width="1193" height="671" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/13b345ef581217086a183292767b21c8365edcbe-1193x671.jpg" class="attachment-page-main-img size-page-main-img wp-post-image" alt="Как правильно фотографировать авто для объявлений" srcset="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/13b345ef581217086a183292767b21c8365edcbe-1193x671.jpg 1193w, https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/13b345ef581217086a183292767b21c8365edcbe-872x491.jpg 872w, https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/13b345ef581217086a183292767b21c8365edcbe-868x488.jpg 868w, https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/13b345ef581217086a183292767b21c8365edcbe-387x218.jpg 387w" sizes="(max-width: 1193px) 100vw, 1193px" />
+        <div id="header-info">
+
+        <h1 class="article-title">Как правильно фотографировать авто для&nbsp;объявлений</h1>
+        <p class="content-summary">Собрались продать машину и&nbsp;готовитесь подать объявление? Казалось&nbsp;бы, что проще, чем сделать несколько фотографий, ведь у&nbsp;каждого сейчас есть мобильный телефон с&nbsp;камерой. Однако не&nbsp;всё так просто, зачастую мы&nbsp;видим объявления, где автомобили невозможно рассмотреть, а&nbsp;все прелести редких машин теряются из-за неудачного ракурса. Рассказываем, как этого избежать.</p>
+        <div class="entry-meta-update">
+    <div class="entry-meta">
+    <span class="entry-date"><time class="entry-date published" datetime="2016-04-30T13:12:03+05:00">30 апреля 2016</time><time class="updated" datetime="2020-10-06T09:50:42+05:00">6 октября 2020</time></span>
+
+        
+    <span class="views-block ">
+        <span class="entry-separator">|</span>
+        <span class="eye-icon"></span>
+        <span class="entry-separator">|</span>
+        <span class="entry-views">2.6K</span>
+    </span>
+
+        <span class="comments-block hidden">
+        <span class="comments-icon"></span>
+        <span class="entry-comments">0</span>
+    </span>
+    </div>
+<style>
+    .entry-meta {
+        margin-top: 14px;
+        color: #727272;
+        font-family: Arial, Verdana, Tahoma, serif;
+        font-size: 12px;
+    }
+
+    .entry-meta .views-block, .entry-meta .comments-block {
+        margin-top: -2px;
+    }
+
+    .entry-meta span {
+        display: inline-block;
+        vertical-align: text-top;
+    }
+
+    .entry-meta .entry-date {
+        margin-right: 5px;
+    }
+
+    .entry-meta .eye-icon {
+        width: 14px;
+        height: 10px;
+        margin-top: 4px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -238px 0;
+    }
+
+    .entry-meta .entry-views {
+        margin-right: 12px;
+    }
+
+    .entry-meta .comments-icon {
+        width: 14px;
+        height: 14px;
+        margin-top: 3px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -220px 0;
+    }
+
+    .entry-meta .hidden {
+        opacity: 0;
+    }
+
+    .entry-meta .entry-separator {
+        opacity: 0;
+    }
+</style>
+</div>
+<style>
+    .entry-meta-update .views-block, .entry-meta-update .comments-block {
+        opacity: 0;
+    }
+</style>
+<script>
+    $(function () {
+        $.post(
+            "https:\/\/kolesa.kz\/content\/wp-json\/v1\/counters",
+            {"post_id":43052,"lang":"ru"},
+            function (response) {
+                if (response.status !== 'ok') {
+                    return;
+                }
+
+                var $container = $('.entry-meta-update');
+
+                if (response.views !== "0") {
+                    $(".entry-views", $container).html(response.views);
+                    $(".views-block", $container).removeClass("hidden");
+                }
+
+                if (response.comments !== "0") {
+                    $(".entry-comments", $container).html(response.comments);
+                    $(".comments-block", $container).removeClass("hidden");
+                }
+
+                $container.removeClass("entry-meta-update")
+            }
+        );
+    });
+</script>
+		<div class="entry-authors clearfix">
+			                <span class="author-name">Автор: Павел Ким</span><span class="photo-source">Фото: Илья Давидович</span>            		</div>
+
+		        </div>
+	</header>
+
+	<div class="entry-content">
+		<p>Нужна&nbsp;ли хорошая и&nbsp;дорогая камера для того, чтобы сделать качественные снимки? Дорогой фотоаппарат точно не&nbsp;обязателен, а&nbsp;хорошие камеры есть сегодня на&nbsp;большинстве телефонов. Снимки мы&nbsp;сделали телефоном LG&nbsp;G4&nbsp;и&nbsp;для сравнения пару раз щёлкнули машину профессиональной зеркальной фотокамерой Canon 70D и&nbsp;простецким смартфоном Samsung Galaxy Star2&nbsp;Plus. Можете сходу определить, какой снимок чем сделан?</p>
+<div class="gallery-container" id="gallery-1">
+
+    <div class="gallery-nav">
+        <div class="gallery-counter">
+            <span class="num-img">1</span> / <span class="total-img">3</span>
+        </div>
+        <div class="gallery-prev"></div>
+
+        <div class="gallery-thumbs">
+            <ul>
+                                    <li class="active">
+                        <a href="#img-43074">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/0aac22765db12faaf3bb5ab0e073d0ed43d32051-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43076">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/1fea08979c55868b6ecd8dfc835a24307972c2cb-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43078">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/e4a191aa5d079136caadd01d67c1e70d28e1f8af-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+
+        <div class="gallery-next"></div>
+    </div>
+
+    <div class="gallery-img-container">
+        
+            <div class="gallery-img first visible"
+                 id="img-43074">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/0aac22765db12faaf3bb5ab0e073d0ed43d32051-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc">Снимок сделанный телефоном LG&nbsp;G4</div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43076">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/1fea08979c55868b6ecd8dfc835a24307972c2cb-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc">Снимок сделанный на&nbsp;Canon&nbsp;70D</div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43078">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/e4a191aa5d079136caadd01d67c1e70d28e1f8af-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc">Снимок сделанный смартфоном Samsung Galaxy Star2 Plus</div>
+            </div>
+        
+        <div class="gallery-mobile-nav">
+            <div class="nav-container">
+                <div class="gallery-counter">
+                    <span class="num-img">1</span> / <span class="total-img">3</span>
+                </div>
+                <div class="gallery-prev"></div>
+                <div class="gallery-next"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2>Как снимать правильно</h2>
+<p>Ряд <strong>простых советов</strong>, которые помогут сделать ваше объявление более привлекательным для потенциальных покупателей:</p>
+<ul>
+<li>помойте автомобиль или протрите его от&nbsp;пыли, если ещё не&nbsp;слишком грязный;</li>
+<li>протрите объектив камеры на&nbsp;телефоне. Об&nbsp;этой мелочи часто забывают, а&nbsp;между тем заляпанный глазок может испортить отличный кадр вне зависимости от&nbsp;устройства;</li>
+<li>держите телефон горизонтально;</li>
+<li>делайте снимки на&nbsp;открытом пространстве. Выберите для съёмки свободную площадку или парковку. На&nbsp;ней не&nbsp;должно быть деревьев, столбов, людей, других машин, в&nbsp;крайнем случае всё это должно быть на&nbsp;заднем плане;</li>
+<li>автомобиль должен попасть в&nbsp;кадр целиком, не&nbsp;зарезайте машину, и&nbsp;желательно, чтобы по&nbsp;краям осталось немного &laquo;воздуха&raquo;;</li>
+<li>делайте снимки в&nbsp;светлое время, без дополнительных вспышек, ничего путного из&nbsp;ночной съёмки не&nbsp;получится;</li>
+<li>при съёмке салона поставьте колёса прямо;</li>
+<li>уберите тряпки из&nbsp;карманов на&nbsp;дверях, висящие ароматизаторы и&nbsp;всевозможные провода. Желательно также снять чехлы с&nbsp;сидений и&nbsp;чехол с&nbsp;руля.</li>
+</ul>
+<p><strong>Примеры удачной съёмки:</strong></p>
+<div class="gallery-container" id="gallery-2">
+
+    <div class="gallery-nav">
+        <div class="gallery-counter">
+            <span class="num-img">1</span> / <span class="total-img">5</span>
+        </div>
+        <div class="gallery-prev"></div>
+
+        <div class="gallery-thumbs">
+            <ul>
+                                    <li class="active">
+                        <a href="#img-43086">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/72ccdb87f24b926209d6d797ce287becadaedbc9-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43088">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/74baea2ee17bd52dad2990e8792b259833b5838c-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43090">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/92edf04a05a4dd1bbde42f48aa3e5b049c7213b2-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43092">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/5f7b99075d036cf43ebe51a7dbdd90ce4b9b3739-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43094">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/91ab885c39019f63ca76f0b45fb36ad01eb6889d-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+
+        <div class="gallery-next"></div>
+    </div>
+
+    <div class="gallery-img-container">
+        
+            <div class="gallery-img first visible"
+                 id="img-43086">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/72ccdb87f24b926209d6d797ce287becadaedbc9-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43088">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/74baea2ee17bd52dad2990e8792b259833b5838c-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43090">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/92edf04a05a4dd1bbde42f48aa3e5b049c7213b2-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43092">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/5f7b99075d036cf43ebe51a7dbdd90ce4b9b3739-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43094">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/91ab885c39019f63ca76f0b45fb36ad01eb6889d-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+        <div class="gallery-mobile-nav">
+            <div class="nav-container">
+                <div class="gallery-counter">
+                    <span class="num-img">1</span> / <span class="total-img">5</span>
+                </div>
+                <div class="gallery-prev"></div>
+                <div class="gallery-next"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2>Как сделать фото ещё лучше</h2>
+<p>Для тех, кто хочет выставить автомобиль в&nbsp;наиболее выгодном свете, будут полезны следующие <strong>рекомендации</strong>:</p>
+<ul>
+<li>снимайте на&nbsp;закате или рассвете. Если не&nbsp;получается провести съёмку рано утром или&nbsp;вечером, то&nbsp;альтернативой может стать пасмурная погода, главное, избегайте яркого солнца;</li>
+<li>избегайте нестандартных ракурсов. На&nbsp;таких снимках машина смотрится эффектно, однако для покупателя важнее рассмотреть в&nbsp;каком состоянии автомобиль;</li>
+<li>поверните колёса в&nbsp;противоположную от&nbsp;фотографа сторону либо поставьте руль ровно. Запомните, протектор не&nbsp;должен попасть в&nbsp;кадр. Если вы&nbsp;хотите показать шины, то&nbsp;сфотографируйте колесо отдельно;</li>
+<li>сфотографируйте самые ценные опции автомобиля, это может быть камера заднего вида, панорамная крыша или особые колёсные диски.</li>
+</ul>
+<div class="gallery-container" id="gallery-3">
+
+    <div class="gallery-nav">
+        <div class="gallery-counter">
+            <span class="num-img">1</span> / <span class="total-img">5</span>
+        </div>
+        <div class="gallery-prev"></div>
+
+        <div class="gallery-thumbs">
+            <ul>
+                                    <li class="active">
+                        <a href="#img-43096">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/6ecc938d9b595e76fd6dc1a1cc9ce2eb796f2a99-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43098">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/f91f221e3d4e3585f2f99591036236e875854648-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43100">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/cbb4a0f984749f0e2524a6fc7460ac5e6619dc12-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43102">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/cc6390ce8bf85a5b7c8ed6170dd0a0a0cb33b608-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43104">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/9ea12079babd3fb3e19b9a9a2ad195570ab31d8f-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+
+        <div class="gallery-next"></div>
+    </div>
+
+    <div class="gallery-img-container">
+        
+            <div class="gallery-img first visible"
+                 id="img-43096">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/6ecc938d9b595e76fd6dc1a1cc9ce2eb796f2a99-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43098">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/f91f221e3d4e3585f2f99591036236e875854648-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43100">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/cbb4a0f984749f0e2524a6fc7460ac5e6619dc12-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43102">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/cc6390ce8bf85a5b7c8ed6170dd0a0a0cb33b608-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43104">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/9ea12079babd3fb3e19b9a9a2ad195570ab31d8f-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+        <div class="gallery-mobile-nav">
+            <div class="nav-container">
+                <div class="gallery-counter">
+                    <span class="num-img">1</span> / <span class="total-img">5</span>
+                </div>
+                <div class="gallery-prev"></div>
+                <div class="gallery-next"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2>Чего делать нельзя</h2>
+<ul>
+<li>в&nbsp;кадр нежелательно попадание людей. Если кто-то прошёл около машины, дождитесь, пока он&nbsp;уйдёт, и&nbsp;сделайте ещё один снимок;</li>
+<li>не&nbsp;завешивайте номер тряпкой;</li>
+<li>никого не&nbsp;должно быть и&nbsp;внутри машины, когда вы&nbsp;снимаете;</li>
+<li>не&nbsp;снимайте машину на&nbsp;парковке между другими авто;</li>
+<li>не&nbsp;оставляйте окна открытыми.</li>
+</ul>
+<p><strong>Примеры неудачной съёмки:</strong></p>
+<div class="gallery-container" id="gallery-4">
+
+    <div class="gallery-nav">
+        <div class="gallery-counter">
+            <span class="num-img">1</span> / <span class="total-img">5</span>
+        </div>
+        <div class="gallery-prev"></div>
+
+        <div class="gallery-thumbs">
+            <ul>
+                                    <li class="active">
+                        <a href="#img-43106">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/47ab07bf360fd2ac27ec2b9fa78f602811c1214a-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43108">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/5be3f1265bd25df407f2c946b6b330aab4e16012-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43110">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/1db27fb347e025ae4b23a4ab5be722dd25466c77-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43112">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/331cc823ac0c8e23147603042e2956d8713d5a36-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                                    <li >
+                        <a href="#img-43114">
+                            <img src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/964f1ab7ed891204a632c93488983d0f74141a43-110x73.jpg" alt=""/>
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+
+        <div class="gallery-next"></div>
+    </div>
+
+    <div class="gallery-img-container">
+        
+            <div class="gallery-img first visible"
+                 id="img-43106">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/47ab07bf360fd2ac27ec2b9fa78f602811c1214a-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43108">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/5be3f1265bd25df407f2c946b6b330aab4e16012-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43110">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/1db27fb347e025ae4b23a4ab5be722dd25466c77-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43112">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/331cc823ac0c8e23147603042e2956d8713d5a36-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+            <div class="gallery-img hidden"
+                 id="img-43114">
+                <img loading="lazy" src="https://kolesa-photos.kcdn.online/kolesa-read/2016/04/10/964f1ab7ed891204a632c93488983d0f74141a43-872x491.jpg" alt="Как правильно фотографировать авто для объявлений"
+                     title="Как правильно фотографировать авто для объявлений"/>
+                <div class="gallery-img-exc"></div>
+            </div>
+        
+        <div class="gallery-mobile-nav">
+            <div class="nav-container">
+                <div class="gallery-counter">
+                    <span class="num-img">1</span> / <span class="total-img">5</span>
+                </div>
+                <div class="gallery-prev"></div>
+                <div class="gallery-next"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+	</div><!-- .entry-content -->
+    </div><!-- .wrapper -->
+
+            
+	<footer class="entry-footer">
+        <div class="wrapper">
+            <h2 class="entry-footer-title">Ещё по теме</h2>
+
+        <section id="theme-list">
+        	<ul>
+
+                                    <li>
+                        <a href="/content/articles/kak-samostoyatelno-prodat-avtomobil-bystree-s-pomoshhyu-platnyh-uslug-na-kolesa-kz/">
+
+                            <img loading="lazy" width="387" height="218" src="https://kolesa-photos.kcdn.online/kolesa-read/7d30b60b764a4398808bad2fc4d8c7644f3e21f4-387x218.png" class="attachment-main-list-thumb size-main-list-thumb wp-post-image" alt="Как самостоятельно продать автомобиль быстрее с помощью платных услуг на Kolesa.kz" srcset="https://kolesa-photos.kcdn.online/kolesa-read/7d30b60b764a4398808bad2fc4d8c7644f3e21f4-387x218.png 387w, https://kolesa-photos.kcdn.online/kolesa-read/7d30b60b764a4398808bad2fc4d8c7644f3e21f4-872x491.png 872w, https://kolesa-photos.kcdn.online/kolesa-read/7d30b60b764a4398808bad2fc4d8c7644f3e21f4-868x488.png 868w, https://kolesa-photos.kcdn.online/kolesa-read/7d30b60b764a4398808bad2fc4d8c7644f3e21f4-full.png 1193w" sizes="(max-width: 387px) 100vw, 387px" />
+                            <h2>Как самостоятельно продать автомобиль быстрее с&nbsp;помощью платных услуг на&nbsp;Kolesa.kz</h2>
+
+                            <div class="entry-meta">
+    <span class="entry-date"><time class="entry-date published" datetime="2026-06-29T10:30:47+05:00">29 июня 2026</time><time class="updated" datetime="2026-09-10T14:59:37+05:00">10 сентября 2026</time></span>
+
+        
+    <span class="views-block ">
+        <span class="entry-separator">|</span>
+        <span class="eye-icon"></span>
+        <span class="entry-separator">|</span>
+        <span class="entry-views">3.3K</span>
+    </span>
+
+        <span class="comments-block hidden">
+        <span class="comments-icon"></span>
+        <span class="entry-comments">0</span>
+    </span>
+    </div>
+<style>
+    .entry-meta {
+        margin-top: 14px;
+        color: #727272;
+        font-family: Arial, Verdana, Tahoma, serif;
+        font-size: 12px;
+    }
+
+    .entry-meta .views-block, .entry-meta .comments-block {
+        margin-top: -2px;
+    }
+
+    .entry-meta span {
+        display: inline-block;
+        vertical-align: text-top;
+    }
+
+    .entry-meta .entry-date {
+        margin-right: 5px;
+    }
+
+    .entry-meta .eye-icon {
+        width: 14px;
+        height: 10px;
+        margin-top: 4px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -238px 0;
+    }
+
+    .entry-meta .entry-views {
+        margin-right: 12px;
+    }
+
+    .entry-meta .comments-icon {
+        width: 14px;
+        height: 14px;
+        margin-top: 3px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -220px 0;
+    }
+
+    .entry-meta .hidden {
+        opacity: 0;
+    }
+
+    .entry-meta .entry-separator {
+        opacity: 0;
+    }
+</style>
+                        </a>
+                    </li>
+
+                                    <li>
+                        <a href="/content/news/besplatnoe-razmeshhenie-obyavlenij-na-kolesa-kz-a-est-ogranicheniya/">
+
+                            <img loading="lazy" width="387" height="218" src="https://kolesa-photos.kcdn.online/kolesa-read/b073b88ea5b629f6b70b6862eda3d947148a46f4-387x218.png" class="attachment-main-list-thumb size-main-list-thumb wp-post-image" alt="Бесплатное размещение объявлений на Kolesa.kz: а есть ограничения?" srcset="https://kolesa-photos.kcdn.online/kolesa-read/b073b88ea5b629f6b70b6862eda3d947148a46f4-387x218.png 387w, https://kolesa-photos.kcdn.online/kolesa-read/b073b88ea5b629f6b70b6862eda3d947148a46f4-872x491.png 872w, https://kolesa-photos.kcdn.online/kolesa-read/b073b88ea5b629f6b70b6862eda3d947148a46f4-868x488.png 868w, https://kolesa-photos.kcdn.online/kolesa-read/b073b88ea5b629f6b70b6862eda3d947148a46f4-full.png 1193w" sizes="(max-width: 387px) 100vw, 387px" />
+                            <h2>Как работает подача объявлений на&nbsp;Kolesa.kz: рассказываем про&nbsp;лимиты</h2>
+
+                            <div class="entry-meta">
+    <span class="entry-date"><time class="entry-date published" datetime="2026-02-27T11:34:41+05:00">27 февраля 2026</time><time class="updated" datetime="2026-02-27T16:15:42+05:00">27 февраля 2026</time></span>
+
+        
+    <span class="views-block ">
+        <span class="entry-separator">|</span>
+        <span class="eye-icon"></span>
+        <span class="entry-separator">|</span>
+        <span class="entry-views">5.0K</span>
+    </span>
+
+        <span class="comments-block ">
+        <span class="comments-icon"></span>
+        <span class="entry-comments">17</span>
+    </span>
+    </div>
+<style>
+    .entry-meta {
+        margin-top: 14px;
+        color: #727272;
+        font-family: Arial, Verdana, Tahoma, serif;
+        font-size: 12px;
+    }
+
+    .entry-meta .views-block, .entry-meta .comments-block {
+        margin-top: -2px;
+    }
+
+    .entry-meta span {
+        display: inline-block;
+        vertical-align: text-top;
+    }
+
+    .entry-meta .entry-date {
+        margin-right: 5px;
+    }
+
+    .entry-meta .eye-icon {
+        width: 14px;
+        height: 10px;
+        margin-top: 4px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -238px 0;
+    }
+
+    .entry-meta .entry-views {
+        margin-right: 12px;
+    }
+
+    .entry-meta .comments-icon {
+        width: 14px;
+        height: 14px;
+        margin-top: 3px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -220px 0;
+    }
+
+    .entry-meta .hidden {
+        opacity: 0;
+    }
+
+    .entry-meta .entry-separator {
+        opacity: 0;
+    }
+</style>
+                        </a>
+                    </li>
+
+                                    <li>
+                        <a href="/content/articles/est-li-nakazanie-za-skruchivanie-probega-v-kazahstane/">
+
+                            <img loading="lazy" width="387" height="218" src="https://kolesa-photos.kcdn.online/kolesa-read/cb55dce3522e0c1daf80e4441747e55f003bc535-387x218.png" class="attachment-main-list-thumb size-main-list-thumb wp-post-image" alt="Есть ли наказание за скручивание пробега в Казахстане" srcset="https://kolesa-photos.kcdn.online/kolesa-read/cb55dce3522e0c1daf80e4441747e55f003bc535-387x218.png 387w, https://kolesa-photos.kcdn.online/kolesa-read/cb55dce3522e0c1daf80e4441747e55f003bc535-872x491.png 872w, https://kolesa-photos.kcdn.online/kolesa-read/cb55dce3522e0c1daf80e4441747e55f003bc535-868x488.png 868w, https://kolesa-photos.kcdn.online/kolesa-read/cb55dce3522e0c1daf80e4441747e55f003bc535-full.png 1193w" sizes="(max-width: 387px) 100vw, 387px" />
+                            <h2>Есть ли наказание за&nbsp;скручивание пробега в&nbsp;Казахстане</h2>
+
+                            <div class="entry-meta">
+    <span class="entry-date"><time class="entry-date published" datetime="2025-07-11T10:34:46+05:00">11 июля 2025</time><time class="updated" datetime="2026-09-10T11:53:54+05:00">10 сентября 2026</time></span>
+
+        
+    <span class="views-block ">
+        <span class="entry-separator">|</span>
+        <span class="eye-icon"></span>
+        <span class="entry-separator">|</span>
+        <span class="entry-views">39.2K</span>
+    </span>
+
+        <span class="comments-block ">
+        <span class="comments-icon"></span>
+        <span class="entry-comments">6</span>
+    </span>
+    </div>
+<style>
+    .entry-meta {
+        margin-top: 14px;
+        color: #727272;
+        font-family: Arial, Verdana, Tahoma, serif;
+        font-size: 12px;
+    }
+
+    .entry-meta .views-block, .entry-meta .comments-block {
+        margin-top: -2px;
+    }
+
+    .entry-meta span {
+        display: inline-block;
+        vertical-align: text-top;
+    }
+
+    .entry-meta .entry-date {
+        margin-right: 5px;
+    }
+
+    .entry-meta .eye-icon {
+        width: 14px;
+        height: 10px;
+        margin-top: 4px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -238px 0;
+    }
+
+    .entry-meta .entry-views {
+        margin-right: 12px;
+    }
+
+    .entry-meta .comments-icon {
+        width: 14px;
+        height: 14px;
+        margin-top: 3px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -220px 0;
+    }
+
+    .entry-meta .hidden {
+        opacity: 0;
+    }
+
+    .entry-meta .entry-separator {
+        opacity: 0;
+    }
+</style>
+                        </a>
+                    </li>
+
+                                    <li>
+                        <a href="/content/articles/chto-takoe-kasko-10-otvetov-na-vazhnye-voprosy/">
+
+                            <img loading="lazy" width="387" height="218" src="https://kolesa-photos.kcdn.online/kolesa-read/4f501fcf4dd11c480710cd981805af199b0c9d05-387x218.png" class="attachment-main-list-thumb size-main-list-thumb wp-post-image" alt="Что такое КАСКО? 10 ответов на важные вопросы" srcset="https://kolesa-photos.kcdn.online/kolesa-read/4f501fcf4dd11c480710cd981805af199b0c9d05-387x218.png 387w, https://kolesa-photos.kcdn.online/kolesa-read/4f501fcf4dd11c480710cd981805af199b0c9d05-872x491.png 872w, https://kolesa-photos.kcdn.online/kolesa-read/4f501fcf4dd11c480710cd981805af199b0c9d05-868x488.png 868w, https://kolesa-photos.kcdn.online/kolesa-read/4f501fcf4dd11c480710cd981805af199b0c9d05-full.png 1193w" sizes="(max-width: 387px) 100vw, 387px" />
+                            <h2>Что такое КАСКО? 10&nbsp;ответов на&nbsp;важные вопросы</h2>
+
+                            <div class="entry-meta">
+    <span class="entry-date"><time class="entry-date published" datetime="2025-06-02T15:40:51+05:00">2 июня 2025</time><time class="updated" datetime="2026-09-10T11:55:09+05:00">10 сентября 2026</time></span>
+
+        
+    <span class="views-block ">
+        <span class="entry-separator">|</span>
+        <span class="eye-icon"></span>
+        <span class="entry-separator">|</span>
+        <span class="entry-views">36.1K</span>
+    </span>
+
+        <span class="comments-block ">
+        <span class="comments-icon"></span>
+        <span class="entry-comments">1</span>
+    </span>
+    </div>
+<style>
+    .entry-meta {
+        margin-top: 14px;
+        color: #727272;
+        font-family: Arial, Verdana, Tahoma, serif;
+        font-size: 12px;
+    }
+
+    .entry-meta .views-block, .entry-meta .comments-block {
+        margin-top: -2px;
+    }
+
+    .entry-meta span {
+        display: inline-block;
+        vertical-align: text-top;
+    }
+
+    .entry-meta .entry-date {
+        margin-right: 5px;
+    }
+
+    .entry-meta .eye-icon {
+        width: 14px;
+        height: 10px;
+        margin-top: 4px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -238px 0;
+    }
+
+    .entry-meta .entry-views {
+        margin-right: 12px;
+    }
+
+    .entry-meta .comments-icon {
+        width: 14px;
+        height: 14px;
+        margin-top: 3px;
+        margin-right: 2px;
+        background: url(https://kolesa.kz/content/html/themes/kolesa-content/images/ico.png) no-repeat -220px 0;
+    }
+
+    .entry-meta .hidden {
+        opacity: 0;
+    }
+
+    .entry-meta .entry-separator {
+        opacity: 0;
+    }
+</style>
+                        </a>
+                    </li>
+
+                
+            </ul>
+        </section>
+        </div><!-- .wrapper -->
+
+	</footer><!-- .entry-footer -->
+
+		</article><!-- #post-## -->
+      <div class="wrapper">
+          
+
+<div id="comments" class="comments-area">
+
+        <div class="comments-header">
+		<h2 class="comments-title">
+			Комментариев:&nbsp;0		</h2><!-- .comments-title -->
+            
+                <div id="comment_hint_0">
+                    <div class="comment-hint" style="width: 98% !important;">
+                        <div class="comment-hint-close-button-block">
+                            <a href="#" onclick="hideHint(0); return false;" class="comment-hint-close-button">&#10006;</a>
+                        </div>
+                        <div class="comment-hint-text-block">
+                                                                                        Чтобы оставить комментарий, вам необходимо <a href="https://kolesa.kz/signin" target="_blank" class="comment-hint-link">зарегистрироваться</a> или <a href="https://kolesa.kz/signin" target="_blank" class="comment-hint-link">авторизоваться</a>.
+                                                    </div>
+                    </div>
+                </div>
+        </div>
+
+    
+    
+</div><!-- #comments -->
+        <script>
+            function showHint(id) {
+                $('#comment_hint_' + id).removeClass('hidden');
+            }
+            function hideHint(id) {
+                $('#comment_hint_' + id).addClass('hidden');
+            }
+        </script>
+      </div>
+    </main>
+  </div>
+
+</div>
+
+<footer>
+    <div class="wrapper">
+                <section id="social">
+            <div id="social-description">Следите за&nbsp;нами<span class="hid"> в&nbsp;соцсетях</span></div>
+            <ul id="social-buttons">
+                                    <li><a href="https://www.facebook.com/Kolesakz">FB</a></li>
+                    <li><a href="https://www.instagram.com/kolesa.kz">Instagram</a></li>
+                    <li><a href="https://t.me/kolesakz_official">Telegram</a></li>
+                    <li><a href="http://www.youtube.com/user/kolesakzvideo">YouTube</a></li>
+                            </ul>
+        </section>
+        <section id="footer-menu">
+            <div id="footer-copy" class="hid">&copy; 2006&nbsp;&mdash; 2026 АО&nbsp;Колеса<br/>
+                <a href="/content/agreement/">
+                    Пользовательское соглашение                </a>
+            </div>
+            <ul>
+                <li>
+                    <a href="https://kolesa.group/">
+                        О компании «Kolesa Group»                    </a>
+                </li>
+                <li><a href="http://job.kolesa.kz/">Вакансии</a></li>
+                <li><a href="https://kolesa.kz/content/service/write-us/">Написать нам письмо</a></li>
+                <li><a href="https://special.kolesa.group/reklamodatelyam" target="_blank">Рекламодателям посвящается</a></li>
+            </ul>
+            <div id="footer-copy" class="vis">&copy; 2006&nbsp;&mdash; 2026 АО&nbsp;Колеса<br/>
+                <a href=/content/agreement/>
+                    Пользовательское соглашение                </a>
+            </div>
+
+        </section>
+            </div>
+</footer>
+</div>
+
+<script type='text/javascript' src='https://kolesa.kz/content/html/themes/kolesa-content/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='https://kolesa.kz/content/html/themes/kolesa-content/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='https://kolesa.kz/content/wp-includes/js/comment-reply.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"kolesa-kz"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kolesa.kz/content/html/plugins/disqus-comment-system/media/js/count.js?ver=5.4.2'></script>
+<script type="text/javascript">(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=ru; expires=" + expirationDate.toUTCString() + "; path=/content/";
+			}());</script><div id="fb-root"></div>
+
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js     = d.createElement(s);
+        js.id  = id;
+        js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.8&appId=222999694532635";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));
+
+    jQuery(function($){
+        $('.email-form').on('submit', function(e){
+            e.preventDefault();
+
+            $.ajax({
+                url:  "https:\/\/kolesa.kz\/content\/wp-json\/v1\/subscribe",
+                type: 'POST',
+                data: $(this).serialize(),
+                dataType: 'text',
+                success: function( data ) {
+                    var data = JSON.parse(data);
+
+                    $('.email-form')[0].reset();
+
+                    if (data.status === 'ok') {
+                        $('.subscribe-message').css('color', 'rgb(0,172,0)');
+                        $('.subscribe-message').text('Письмо для подтверждения подписки отправлено на почту.');
+                    } else {
+                        $('.subscribe-message').css('color', 'red');
+                        $('.subscribe-message').text('Введите корректный email адрес.');
+                    }
+                }
+            });
+        });
+    });
+</script>
+</body>
+</html>

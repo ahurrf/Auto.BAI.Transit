@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoTransit — Доставка и перегон автомобилей</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Шапка сайта -->
+    <header>
+        <div class="logo">Auto<span>.BAI.Transit</span></div>
+        <button class="burger" id="burgerBtn">☰</button>
+        <nav id="navMenu">
+            <a href="#home">Главная</a>
+            <a href="#about">О нас</a>
+            <a href="#countries">Страны</a>
+            <a href="#services">Услуги</a>
+            <a href="#contacts">Контакты</a>
+        </nav>
+    </header>
+
+    <!-- Главный экран -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Доставка автомобилей из США, Европы, Кореи и ОАЭ</h1>
+            <p>Полный комплекс услуг под ключ: подбор, растаможка, страховка и доставка в ваш город.</p>
+            <a href="#countries" class="btn">Выбрать направление</a>
+        </div>
+    </section>
+
+    <!-- Раздел «О нас» -->
+    <section id="about" class="about">
+        <h2>О компании Auto.BAI.Transit</h2>
+        <p>Мы специализируемся на профессиональном импорте и логистике автомобилей по всему миру. Безопасные маршруты, прямые договоры с аукционами и полное юридическое сопровождение на каждом этапе.</p>
+    </section>
+
+    <!-- Интерактивный раздел «Страны» (Вкладки) -->
+    <section id="countries" class="tabs-section">
+        <h2>Выберите страну доставки</h2>
+        <p class="section-desc">Нажмите на кнопку нужной страны, чтобы увидеть подробную информацию и условия:</p>
+        
+        <!-- Кнопки переключения -->
+        <div class="tab-buttons">
+            <button class="tab-btn active" data-tab="usa">США и Канада</button>
+            <button class="tab-btn" data-tab="korea">Южная Корея</button>
+            <button class="tab-btn" data-tab="uae">ОАЭ (Дубай)</button>
+        </div>
+
+        <!-- Контент вкладок -->
+        <div class="tab-content">
+            <div id="usa" class="tab-pane active">
+                <h3>🇺🇸 Доставка из США и Канады</h3>
+                <p>Покупка на крупнейших закрытых и открытых аукционах (Copart, IAAI, Manheim). Тщательная проверка истории по базам Carfax и AutoCheck. Безопасная морская транспортировка в контейнерах и страхование на всем пути следования.</p>
+            </div>
+            <div id="korea" class="tab-pane">
+                <h3>🇰🇷 Доставка из Южной Кореи</h3>
+                <p>Прямой доступ к внутренним корейским рынкам и аукционам. Автомобили в отличном состоянии, богатые комплектации (включая дизельные и гибридные версии). Проверка толщины краски, диагностика и быстрая отправка паромом.</p>
+            </div>
+            <div id="uae" class="tab-pane">
+                <h3>🇦🇪 Доставка из ОАЭ (Дубай)</h3>
+                <p>Широкий выбор новых автомобилей и моделей с минимальным пробегом премиум-класса. Быстрое оформление экспортных документов, минимальные сроки логистики и выгодные таможенные условия.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Интерактивный раздел «Услуги» (Раскрывающиеся блоки по клику) -->
+    <section id="services" class="services-section">
+        <h2>Наши услуги</h2>
+        <div class="services-container">
+            
+            <div class="service-card">
+                <h3>Профессиональный подбор</h3>
+                <p class="short-text">Поиск автомобиля под ваши параметры, бюджет и проверка технического состояния.</p>
+                <div class="full-text">
+                    <p>Наши эксперты анализируют рынок ежедневно, проверяют юридическую чистоту, историю обслуживания и реальный пробег, отсекая битые и проблемные варианты.</p>
+                </div>
+                <button class="toggle-btn">Подробнее</button>
+            </div>
+
+            <div class="service-card">
+                <h3>Растаможка и учет</h3>
+                <p class="short-text">Полное таможенное оформление, уплата пошлин и помощь с регистрацией.</p>
+                <div class="full-text">
+                    <p>Готовим полный пакет документов для таможни, рассчитываем пошлины по актуальным ставкам и помогаем быстро поставить автомобиль на учет.</p>
+                </div>
+                <button class="toggle-btn">Подробнее</button>
+            </div>
+
+            <div class="service-card">
+                <h3>Страхование груза</h3>
+                <p class="short-text">100% страхование автомобиля на время морской и сухопутной транспортировки.</p>
+                <div class="full-text">
+                    <p>Мы сотрудничаем с ведущими страховыми компаниями. Любые риски во время погрузки, перевозки морем и автовозом полностью покрываются страховкой.</p>
+                </div>
+                <button class="toggle-btn">Подробнее</button>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Контакты -->
+    <footer id="contacts">
+        <h2>Контакты</h2>
+        <p>Телефон / WhatsApp: +996 (704) 16-58-72</p>
+        <p>Email: info@autot.bai.ransit.kg</p>
+        <p>Адрес: г. Бишкек, ул. Центральная, 15</p>
+        <p class="copyright">&copy; 2026 Auto.bai.Transit. Все права защищены.</p>
+    </footer>
+
+    <!-- Скрипт для интерактивности -->
+    <script src="script.js"></script>
+</body>
+</html>
